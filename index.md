@@ -9,7 +9,7 @@ permalink: /
 
 I am an Forensic Economist and Researcher. 
 
-PhD candidate in Economics at the University of Brasília [(UnB)][UnB], with a Master's in Economics from [UFPE][UFPE] and a Bachelor's in Economics from [UFPB][UFPB]. Experience in technical projects, applied economic analysis, and regional development. Supervising Professor in the lato sensu postgraduate program at [USP/ESALQ][USP/ESALQ] and Specialized Technical Assistant at the Procuradoria Geral da Fazenda Nacional [(PGFN)][PGFN]. 
+PhD candidate in Economics at the University of Brasília [(UnB)][UnB], with a Master's in Economics from [UFPE][UFPE] and a Bachelor's in Economics from [UFPB][UFPB]. Experience in technical projects, applied economic analysis, and regional development. Supervising Professor in the Data Science and Analytics and Finance and Controlling courses of the lato sensu postgraduate program at [USP/ESALQ][USP/ESALQ] and Specialized Technical Assistant at the Procuradoria Geral da Fazenda Nacional [(PGFN)][PGFN]. 
 
 
 **Research Interests:**
