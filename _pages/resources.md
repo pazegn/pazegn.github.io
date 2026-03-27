@@ -21,7 +21,7 @@ wait, under construction...
 - - -
 
 
-**Encontro Nacional de Economia, da Associação Nacional dos Centros de Pósgraduação em Economia (ANPEC)** <br/> 
+**(ANPEC) Encontro Nacional de Economia**, da Associação Nacional dos Centros de Pósgraduação em Economia <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('ANPEC')">More</a> | [Site][ANPEC] ] </small>
 
 <div id="ANPEC" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -32,7 +32,7 @@ The Encontro Nacional de Economia, organized by the Associação Nacional dos Ce
 [ANPEC]: https://en.anpec.org.br/
 
 
-**Encontro de Economia da Região Sul, da Associação Nacional dos Centros de Pósgraduação em Economia (ANPEC)** <br/> 
+**(ANPEC-Sul) Encontro de Economia da Região Sul**, da Associação Nacional dos Centros de Pósgraduação em Economia <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('ANPECS')">More</a> | [Site][ANPECS] ] </small>
 
 <div id="ANPECS" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -43,7 +43,7 @@ The Encontro de Economia da Região Sul is an important regional academic meetin
 [ANPECS]: https://www.anpec.org.br/novosite/br/xxix-encontro-de-economia-da-regiao-sul 
 
 
-**Encontro Regional de Economia do Nordeste, da Associação Nacional dos Centros de Pósgraduação em Economia (ANPEC)** <br/> 
+**(ANPEC-NE) Encontro Regional de Economia do Nordeste**, da Associação Nacional dos Centros de Pósgraduação em Economia <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('ANPECNE')">More</a> | [Site][ANPECNE] ] </small>
 
 <div id="ANPECNE" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -54,7 +54,7 @@ The Encontro Regional de Economia do Nordeste is a major forum focused on econom
 [ANPECNE]:  https://www.anpec.org.br/novosite/br/xxxi-encontro-regional-de-economia 
 
 
-**Encontro Nacional da Associação Brasileira de Estudos Regionais e Urbanos (ABER)** <br/> 
+**(ABER) Encontro Nacional da Associação Brasileira de Estudos Regionais e Urbanos** <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('ABER')">More</a> | [Site][ABER] ] </small>
 
 <div id="ABER" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -65,7 +65,7 @@ The Encontro Nacional da Associação Brasileira de Estudos Regionais e Urbanos 
 [ABER]:  https://brsa.org.br/encontros/ 
 
 
-**Encontro Nacional de Estudos Populacionais, da Associação Brasileira de Estudos Populacionais (ABEP)** <br/> 
+**(ABEP) Encontro Nacional de Estudos Populacionais**, da Associação Brasileira de Estudos Populacionais <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('ABEP')">More</a> | [Site][ABEP] ] </small>
 
 <div id="ABEP" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -76,7 +76,7 @@ The Encontro Nacional de Estudos Populacionais is one of the main Brazilian meet
 [ABEP]: https://www.abep.org.br/abep/page/258-home
 
 
-**Encontro Nacional de Economia Política, da Sociedade Brasileira de Economia Política (SEP)** <br/> 
+**(SEP) Encontro Nacional de Economia Política**, da Sociedade Brasileira de Economia Política <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('SEP')">More</a> | [Site][SEP] ] </small>
 
 <div id="SEP" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -87,7 +87,7 @@ The Encontro Nacional de Economia Política is an important forum for political 
 [SEP]: https://www.sep.org.br/01_sites/01/index.php
 
 
-**Encontro Nacional da Associação Brasileira de Estudos do Trabalho (ABET)** <br/> 
+**(ABET) Encontro Nacional da Associação Brasileira de Estudos do Trabalho** <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('ABET')">More</a> | [Site][ABET] ] </small>
 
 <div id="ABET" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -98,7 +98,7 @@ The Encontro Nacional da Associação Brasileira de Estudos do Trabalho is a maj
 [ABET]: https://abet-trabalho.org.br/ 
 
 
-**Congresso da Sociedade Brasileira de Economia, Administração e Sociologia Rural (SOBER)** <br/> 
+**(SOBER) Congresso da Sociedade Brasileira de Economia, Administração e Sociologia Rural** <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('SOBER')">More</a> | [Site][SOBER] ] </small>
 
 <div id="SOBER" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -109,7 +109,7 @@ The Congresso da Sociedade Brasileira de Economia, Administração e Sociologia 
 [SOBER]: https://sober.org.br/ 
 
 
-**Encontro Nacional da Sociedade Brasileira de Economia Ecológica (ECOECO)** <br/> 
+**(ECOECO) Encontro Nacional da Sociedade Brasileira de Economia Ecológica** <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('ECOECO')">More</a> | [Site][ECOECO] ] </small>
 
 <div id="ECOECO" style="display: none; text-align: justify; line-height: 1.2" ><small>
