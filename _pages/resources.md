@@ -21,7 +21,7 @@ wait, under construction...
 - - -
 
 
-**(ANPEC) Encontro Nacional de Economia**, da Associação Nacional dos Centros de Pósgraduação em Economia <br/> 
+**(ANPEC) Encontro Nacional de Economia**, *da Associação Nacional dos Centros de Pósgraduação em Economia* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('ANPEC')">More</a> | [Site][ANPEC] ] </small>
 
 <div id="ANPEC" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -32,7 +32,7 @@ The Encontro Nacional de Economia, organized by the Associação Nacional dos Ce
 [ANPEC]: https://en.anpec.org.br/
 
 
-**(ANPEC-Sul) Encontro de Economia da Região Sul**, da Associação Nacional dos Centros de Pósgraduação em Economia <br/> 
+**(ANPEC-Sul) Encontro de Economia da Região Sul**, *da Associação Nacional dos Centros de Pósgraduação em Economia* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('ANPECS')">More</a> | [Site][ANPECS] ] </small>
 
 <div id="ANPECS" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -43,7 +43,7 @@ The Encontro de Economia da Região Sul is an important regional academic meetin
 [ANPECS]: https://www.anpec.org.br/novosite/br/xxix-encontro-de-economia-da-regiao-sul 
 
 
-**(ANPEC-NE) Encontro Regional de Economia do Nordeste**, da Associação Nacional dos Centros de Pósgraduação em Economia <br/> 
+**(ANPEC-NE) Encontro Regional de Economia do Nordeste**, *da Associação Nacional dos Centros de Pósgraduação em Economia* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('ANPECNE')">More</a> | [Site][ANPECNE] ] </small>
 
 <div id="ANPECNE" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -65,7 +65,7 @@ The Encontro Nacional da Associação Brasileira de Estudos Regionais e Urbanos 
 [ABER]:  https://brsa.org.br/encontros/ 
 
 
-**(ABEP) Encontro Nacional de Estudos Populacionais**, da Associação Brasileira de Estudos Populacionais <br/> 
+**(ABEP) Encontro Nacional de Estudos Populacionais**, *da Associação Brasileira de Estudos Populacionais* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('ABEP')">More</a> | [Site][ABEP] ] </small>
 
 <div id="ABEP" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -76,7 +76,7 @@ The Encontro Nacional de Estudos Populacionais is one of the main Brazilian meet
 [ABEP]: https://www.abep.org.br/abep/page/258-home
 
 
-**(SEP) Encontro Nacional de Economia Política**, da Sociedade Brasileira de Economia Política <br/> 
+**(SEP) Encontro Nacional de Economia Política**, *da Sociedade Brasileira de Economia Política* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('SEP')">More</a> | [Site][SEP] ] </small>
 
 <div id="SEP" style="display: none; text-align: justify; line-height: 1.2" ><small>
