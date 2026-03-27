@@ -128,3 +128,19 @@ The Encontro Nacional da Sociedade Brasileira de Economia Ecológica is the main
 
 wait, under construction...
 
+# <center> Journal Rankings </center>
+- - -
+
+wait, under construction...
+
+<script>
+ function visib(id) {
+  var x = document.getElementById(id);
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
+</script>
+
