@@ -21,7 +21,6 @@ wait, under construction...
 - - -
 
 
-
 **Encontro Nacional de Economia, da Associação Nacional dos Centros de Pósgraduação em Economia (ANPEC)** <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('ANPEC')">More</a> | [Site][ANPEC] ] </small>
 
@@ -128,11 +127,6 @@ The Encontro Nacional da Sociedade Brasileira de Economia Ecológica is the main
 
 wait, under construction...
 
-# <center> Journal Rankings </center>
-- - -
-
-wait, under construction...
-
 <script>
  function visib(id) {
   var x = document.getElementById(id);
@@ -143,4 +137,3 @@ wait, under construction...
   }
 }
 </script>
-
