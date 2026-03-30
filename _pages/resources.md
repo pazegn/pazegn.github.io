@@ -17,7 +17,7 @@ Some useful links and other stuff
 
 <div id="BLOCK1" style="display: none; text-align: justify; line-height: 1.2" >
 
-**PNAD Contínua, IBGE**, *household sample survey on labor, income, education, and demographic conditions <br/> 
+**PNAD Contínua, IBGE**, *household sample survey on labor, income, education, and demographic conditions* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('PNADC')">More</a> | [Site][PNADC] ] </small>
 
 <div id="PNADC" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -28,7 +28,7 @@ PNAD Contínua is a household sample survey with information on labor, income, e
 [PNADC]: https://www.ibge.gov.br/estatisticas/sociais/trabalho/2511-np-pnad-continua.html
 
 
-**Censo Demográfico, IBGE**, population and housing census of Brazil <br/> 
+**Censo Demográfico, IBGE**, *population and housing census of Brazil* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('CENSO')">More</a> | [Site][CENSO] ] </small>
 
 <div id="CENSO" style="display: none; text-align: justify; line-height: 1.2" ><small>
