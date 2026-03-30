@@ -17,7 +17,7 @@ Some useful links and other stuff
 
 <div id="BLOCK1" style="display: none; text-align: justify; line-height: 1.2" >
 
-*PNAD Contínua, IBGE, *household sample survey on labor, income, education, and demographic conditions <br/> 
+**PNAD Contínua, IBGE**, *household sample survey on labor, income, education, and demographic conditions <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('PNADC')">More</a> | [Site][PNADC] ] </small>
 
 <div id="PNADC" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -28,7 +28,7 @@ PNAD Contínua is a household sample survey with information on labor, income, e
 [PNADC]: https://www.ibge.gov.br/estatisticas/sociais/trabalho/2511-np-pnad-continua.html
 
 
-*Censo Demográfico, IBGE, *population and housing census of Brazil <br/> 
+**Censo Demográfico, IBGE**, population and housing census of Brazil <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('CENSO')">More</a> | [Site][CENSO] ] </small>
 
 <div id="CENSO" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -39,7 +39,7 @@ Censo Demográfico is the population and housing census of Brazil. It is a class
 [CENSO]: https://www.ibge.gov.br/estatisticas/sociais/populacao/2098-np-censo-demografico.html
 
 
-*POF, Pesquisa de Orçamentos Familiares, IBGE, *household survey on expenditure, income, and living conditions <br/> 
+**POF, Pesquisa de Orçamentos Familiares, IBGE**, *household survey on expenditure, income, and living conditions* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('POF')">More</a> | [Site][POF] ] </small>
 
 <div id="POF" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -50,7 +50,7 @@ POF is a household survey focused on expenditure structure, income, consumption,
 [POF]: https://www.ibge.gov.br/pof2024/
 
 
-*SIDRA, IBGE, *system for retrieving IBGE statistical tables <br/> 
+**SIDRA, IBGE**, *system for retrieving IBGE statistical tables* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('SIDRA')">More</a> | [Site][SIDRA] ] </small>
 
 <div id="SIDRA" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -61,7 +61,7 @@ SIDRA is the IBGE system for retrieving statistical tables. It gathers aggregate
 [SIDRA]: https://sidra.ibge.gov.br/acervo
 
 
-*IPEAData, Ipea, *broad database of economic and social time series <br/> 
+**IPEAData, Ipea**, *broad database of economic and social time series* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('IPEADATA')">More</a> | [Site][IPEADATA] ] </small>
 
 <div id="IPEADATA" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -72,7 +72,7 @@ IPEAData is a broad database of economic, social, regional, and financial time s
 [IPEADATA]: https://www.ipeadata.gov.br/
 
 
-*SGS, Sistema Gerenciador de Séries Temporais, Banco Central do Brasil, *economic and financial time series database <br/> 
+**SGS, Sistema Gerenciador de Séries Temporais, Banco Central do Brasil**, *economic and financial time series database* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('SGS')">More</a> | [Site][SGS] ] </small>
 
 <div id="SGS" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -83,7 +83,7 @@ SGS is an economic and financial time series database maintained by the Banco Ce
 [SGS]: https://www4.bcb.gov.br/pec/series/port/aviso.asp?frame=1
 
 
-*IRPF, Imposto de Renda da Pessoa Física, Receita Federal do Brasil, *tax statistics on personal income <br/> 
+**IRPF, Imposto de Renda da Pessoa Física, Receita Federal do Brasil**, *tax statistics on personal income* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('IRPF')">More</a> | [Site][IRPF] ] </small>
 
 <div id="IRPF" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -94,7 +94,7 @@ IRPF provides aggregated information from personal income tax returns. It is wid
 [IRPF]: https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/dados-abertos/grandes-numeros-do-irpf
 
 
-*PNS, Pesquisa Nacional de Saúde, IBGE e Ministério da Saúde, *national household health survey <br/> 
+**PNS, Pesquisa Nacional de Saúde, IBGE e Ministério da Saúde**, *national household health survey* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('PNS')">More</a> | [Site][PNS] ] </small>
 
 <div id="PNS" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -105,7 +105,7 @@ PNS is a national household survey with information on health conditions, chroni
 [PNS]: https://www.ibge.gov.br/estatisticas/sociais/saude/9160-pesquisa-nacional-de-saude.html
 
 
-*CadÚnico, *administrative registry of low income families <br/> 
+**CadÚnico**, *administrative registry of low income families* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('CADUNICO')">More</a> | [Site][CADUNICO] ] </small>
 
 <div id="CADUNICO" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -122,7 +122,7 @@ CadÚnico is an administrative registry of low income families, widely used in s
 
 <div id="BLOCK2" style="display: none; text-align: justify; line-height: 1.2" >
 
-*RAIS, Relação Anual de Informações Sociais, Ministério do Trabalho e Emprego, *administrative registry of the formal labor market <br/> 
+**RAIS, Relação Anual de Informações Sociais, Ministério do Trabalho e Emprego**, *administrative registry of the formal labor market* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('RAISITEM')">More</a> | [Site][RAISITEM] ] </small>
 
 <div id="RAISITEM" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -133,7 +133,7 @@ RAIS is an administrative registry of the formal labor market, with information 
 [RAISITEM]: https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/estatisticas-trabalho/microdados-rais-e-caged
 
 
-*Novo CAGED, Ministério do Trabalho e Emprego, *administrative database on formal hirings and dismissals <br/> 
+**Novo CAGED, Ministério do Trabalho e Emprego**, *administrative database on formal hirings and dismissals* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('CAGEDITEM')">More</a> | [Site][CAGEDITEM] ] </small>
 
 <div id="CAGEDITEM" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -144,7 +144,7 @@ Novo CAGED is an administrative database of formal hirings and dismissals. It is
 [CAGEDITEM]: https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/estatisticas-trabalho/novo-caged
 
 
-*DATASUS, TabNet, Ministério da Saúde, *health information system on mortality, births, hospitalizations, and services <br/> 
+**DATASUS, TabNet, Ministério da Saúde**, *health information system on mortality, births, hospitalizations, and services* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('DATASUSITEM')">More</a> | [Site][DATASUSITEM] ] </small>
 
 <div id="DATASUSITEM" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -155,7 +155,7 @@ DATASUS is a health information system with data on mortality, births, hospitali
 [DATASUSITEM]: https://datasus.saude.gov.br/informacoes-de-saude-tabnet/
 
 
-*SIM, Sistema de Informações sobre Mortalidade, Ministério da Saúde, *national mortality information system <br/> 
+**SIM, Sistema de Informações sobre Mortalidade, Ministério da Saúde**, *national mortality information system* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('SIMITEM')">More</a> | [Site][SIMITEM] ] </small>
 
 <div id="SIMITEM" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -166,7 +166,7 @@ SIM is the national system of death records, with information on overall mortali
 [SIMITEM]: https://www.gov.br/saude/pt-br/composicao/svsa/sistemas-de-informacao/sim
 
 
-*SINASC, Sistema de Informações sobre Nascidos Vivos, Ministério da Saúde, *national live birth information system <br/> 
+**SINASC, Sistema de Informações sobre Nascidos Vivos, Ministério da Saúde**, *national live birth information system* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('SINASCITEM')">More</a> | [Site][SINASCITEM] ] </small>
 
 <div id="SINASCITEM" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -177,7 +177,7 @@ SINASC is the national system of live birth records, with information on the new
 [SINASCITEM]: https://www.gov.br/saude/pt-br/composicao/svsa/sistemas-de-informacao/sinasc
 
 
-*Microdados, Inep, *educational microdata from Brazilian assessments and school statistics <br/> 
+**Microdados, Inep**, *educational microdata from Brazilian assessments and school statistics* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('INEPMICROITEM')">More</a> | [Site][INEPMICROITEM] ] </small>
 
 <div id="INEPMICROITEM" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -188,7 +188,7 @@ Microdados do Inep is a set of educational microdata, including Censo Escolar, E
 [INEPMICROITEM]: https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados
 
 
-*Censo Escolar da Educação Básica, Inep, *annual census of Brazilian basic education <br/> 
+**Censo Escolar da Educação Básica, Inep**, *annual census of Brazilian basic education* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('CENSOESCITEM')">More</a> | [Site][CENSOESCITEM] ] </small>
 
 <div id="CENSOESCITEM" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -199,7 +199,7 @@ Censo Escolar da Educação Básica is the annual census of Brazilian basic educ
 [CENSOESCITEM]: https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar
 
 
-*SAEB, Sistema de Avaliação da Educação Básica, Inep, *large scale assessment system of student performance <br/> 
+**SAEB, Sistema de Avaliação da Educação Básica, Inep**, *large scale assessment system of student performance* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('SAEBITEM')">More</a> | [Site][SAEBITEM] ] </small>
 
 <div id="SAEBITEM" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -210,7 +210,7 @@ SAEB is a large scale external assessment system aimed at measuring student perf
 [SAEBITEM]: https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/saeb
 
 
-*IDEB, Índice de Desenvolvimento da Educação Básica, Inep, *composite indicator of school progression and performance <br/> 
+**IDEB, Índice de Desenvolvimento da Educação Básica, Inep**, *composite indicator of school progression and performance* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('IDEBITEM')">More</a> | [Site][IDEBITEM] ] </small>
 
 <div id="IDEBITEM" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -227,7 +227,7 @@ IDEB is a composite indicator that combines school progression, obtained from Ce
 
 <div id="BLOCK3" style="display: none; text-align: justify; line-height: 1.2" >
 
-*Produto Interno Bruto dos Municípios, IBGE, *municipal GDP and sectoral value added database <br/> 
+**Produto Interno Bruto dos Municípios, IBGE**, *municipal GDP and sectoral value added database* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('PIBMUNITEM')">More</a> | [Site][PIBMUNITEM] ] </small>
 
 <div id="PIBMUNITEM" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -238,7 +238,7 @@ Produto Interno Bruto dos Municípios provides information on municipal GDP, gro
 [PIBMUNITEM]: https://www.ibge.gov.br/estatisticas/economicas/contas-nacionais/9088-produto-interno-bruto-dos-municipios.html
 
 
-*Contas Regionais do Brasil, IBGE, *state level GDP and value added database <br/> 
+**Contas Regionais do Brasil, IBGE**, *state level GDP and value added database* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('CONTASREGITEM')">More</a> | [Site][CONTASREGITEM] ] </small>
 
 <div id="CONTASREGITEM" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -249,7 +249,7 @@ Contas Regionais do Brasil provides information on GDP and gross value added for
 [CONTASREGITEM]: https://www.ibge.gov.br/estatisticas/economicas/contas-nacionais.html
 
 
-*REGIC, Regiões de Influência das Cidades, IBGE, *survey on urban hierarchy and city influence areas <br/> 
+**REGIC, Regiões de Influência das Cidades, IBGE**, *survey on urban hierarchy and city influence areas* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('REGICITEM')">More</a> | [Site][REGICITEM] ] </small>
 
 <div id="REGICITEM" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -260,7 +260,7 @@ REGIC is a survey focused on urban hierarchy and the areas of influence of Brazi
 [REGICITEM]: https://www.ibge.gov.br/geociencias/cartas-e-mapas/redes-geograficas/15798-regioes-de-influencia-das-cidades.html
 
 
-*Cadastro Nacional de Endereços para Fins Estatísticos, CNEFE, IBGE, *national georeferenced address database <br/> 
+**Cadastro Nacional de Endereços para Fins Estatísticos, CNEFE, IBGE**, *national georeferenced address database* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('CNEFEITEM')">More</a> | [Site][CNEFEITEM] ] </small>
 
 <div id="CNEFEITEM" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -271,7 +271,7 @@ CNEFE is a national database of georeferenced addresses of households and establ
 [CNEFEITEM]: https://www.ibge.gov.br/estatisticas/sociais/populacao/38734-cadastro-nacional-de-enderecos-para-fins-estatisticos.html
 
 
-*Finbra, Tesouro Nacional, *database of subnational accounting and fiscal information <br/> 
+**Finbra, Tesouro Nacional**, *database of subnational accounting and fiscal information* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('FINBRAITEM')">More</a> | [Site][FINBRAITEM] ] </small>
 
 <div id="FINBRAITEM" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -282,7 +282,7 @@ Finbra is a database of accounting and fiscal information for Brazilian states a
 [FINBRAITEM]: https://www.gov.br/tesouronacional/pt-br/estados-e-municipios/dados-consolidados/finbra-financas-municipais
 
 
-*Siconfi, Sistema de Informações Contábeis e Fiscais do Setor Público Brasileiro, *system for public accounting and fiscal information <br/> 
+**Siconfi, Sistema de Informações Contábeis e Fiscais do Setor Público Brasileiro**, *system for public accounting and fiscal information* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('SICONFIITEM')">More</a> | [Site][SICONFIITEM] ] </small>
 
 <div id="SICONFIITEM" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -293,7 +293,7 @@ Siconfi is a system for collecting and consulting accounting and fiscal informat
 [SICONFIITEM]: https://siconfi.tesouro.gov.br/
 
 
-*Atlas do Desenvolvimento Humano no Brasil, *platform of human development and socioeconomic indicators <br/> 
+**Atlas do Desenvolvimento Humano no Brasil**, *platform of human development and socioeconomic indicators* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('ATLASITEM')">More</a> | [Site][ATLASITEM] ] </small>
 
 <div id="ATLASITEM" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -304,7 +304,7 @@ Atlas do Desenvolvimento Humano no Brasil is a platform providing human developm
 [ATLASITEM]: https://www.atlasbrasil.org.br/
 
 
-*SNIS, Sistema Nacional de Informações sobre Saneamento, Ministério das Cidades, *database on sanitation and urban infrastructure <br/> 
+**SNIS, Sistema Nacional de Informações sobre Saneamento, Ministério das Cidades**, *database on sanitation and urban infrastructure* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('SNISITEM')">More</a> | [Site][SNISITEM] ] </small>
 
 <div id="SNISITEM" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -315,7 +315,7 @@ SNIS is a database with information on water supply, sewage, solid waste, and ur
 [SNISITEM]: https://www.gov.br/cidades/pt-br/acesso-a-informacao/acoes-e-programas/saneamento/snis
 
 
-*SINISA, Sistema Nacional de Informações em Saneamento Básico, Ministério das Cidades, *system on sanitation services and regulation <br/> 
+**SINISA, Sistema Nacional de Informações em Saneamento Básico, Ministério das Cidades**, *system on sanitation services and regulation* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('SINISAITEM')">More</a> | [Site][SINISAITEM] ] </small>
 
 <div id="SINISAITEM" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -326,7 +326,7 @@ SINISA is a system that gives institutional continuity to SNIS from 2024 onward.
 [SINISAITEM]: https://www.gov.br/cidades/pt-br/acesso-a-informacao/acoes-e-programas/saneamento/sinisa
 
 
-*Portal de Dados Abertos do TSE, Tribunal Superior Eleitoral, *electoral data portal <br/> 
+**Portal de Dados Abertos do TSE, Tribunal Superior Eleitoral**, *electoral data portal* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('TSEITEM')">More</a> | [Site][TSEITEM] ] </small>
 
 <div id="TSEITEM" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -343,7 +343,7 @@ The Portal de Dados Abertos do TSE provides data on the electorate, candidacies,
 
 <div id="BLOCK4" style="display: none; text-align: justify; line-height: 1.2" >
 
-*PIA, Pesquisa Industrial Anual, IBGE, *structural database of Brazilian industry <br/> 
+**PIA, Pesquisa Industrial Anual, IBGE**, *structural database of Brazilian industry* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('PIAITEM')">More</a> | [Site][PIAITEM] ] </small>
 
 <div id="PIAITEM" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -354,7 +354,7 @@ PIA is a structural database of Brazilian industry, widely used in studies of pr
 [PIAITEM]: https://www.ibge.gov.br/estatisticas/economicas/industria/9042-pesquisa-industrial-anual.html
 
 
-*PAS, Pesquisa Anual de Serviços, IBGE, *structural survey of non financial services <br/> 
+**PAS, Pesquisa Anual de Serviços, IBGE**, *structural survey of non financial services* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('PASITEM')">More</a> | [Site][PASITEM] ] </small>
 
 <div id="PASITEM" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -365,7 +365,7 @@ PAS is a structural survey of non financial services in Brazil, widely used in s
 [PASITEM]: https://www.ibge.gov.br/estatisticas/economicas/servicos/9028-pesquisa-anual-de-servicos.html
 
 
-*PAC, Pesquisa Anual de Comércio, IBGE, *structural survey of wholesale and retail trade <br/> 
+**PAC, Pesquisa Anual de Comércio, IBGE**, *structural survey of wholesale and retail trade* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('PACITEM')">More</a> | [Site][PACITEM] ] </small>
 
 <div id="PACITEM" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -376,7 +376,7 @@ PAC is a structural survey of wholesale and retail trade in Brazil, with data on
 [PACITEM]: https://www.ibge.gov.br/estatisticas/economicas/comercio/9075-pesquisa-anual-de-comercio.html
 
 
-*PINTEC, Pesquisa de Inovação, IBGE, *survey on firms' innovation efforts <br/> 
+**PINTEC, Pesquisa de Inovação, IBGE**, *survey on firms' innovation efforts* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('PINTECITEM')">More</a> | [Site][PINTECITEM] ] </small>
 
 <div id="PINTECITEM" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -387,7 +387,7 @@ PINTEC is a survey focused on firms' innovation efforts, with information on pro
 [PINTECITEM]: https://www.ibge.gov.br/estatisticas/economicas/industria/9141-pintec.html
 
 
-*Comex Stat, Ministério do Desenvolvimento, Indústria, Comércio e Serviços, *official portal of Brazilian foreign trade statistics <br/> 
+**Comex Stat, Ministério do Desenvolvimento, Indústria, Comércio e Serviços**, *official portal of Brazilian foreign trade statistics* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('COMEXITEM')">More</a> | [Site][COMEXITEM] ] </small>
 
 <div id="COMEXITEM" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -398,7 +398,7 @@ Comex Stat is the official portal of Brazilian foreign trade statistics. It is w
 [COMEXITEM]: https://comexstat.mdic.gov.br/pt/home
 
 
-*Dados Abertos CVM, Comissão de Valores Mobiliários, *open data portal on regulated financial and corporate information <br/> 
+**Dados Abertos CVM, Comissão de Valores Mobiliários**, *open data portal on regulated financial and corporate information* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('CVMITEM')">More</a> | [Site][CVMITEM] ] </small>
 
 <div id="CVMITEM" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -409,7 +409,7 @@ Dados Abertos CVM is an open data portal with information on publicly listed com
 [CVMITEM]: https://dados.cvm.gov.br/
 
 
-*B3, Brasil Bolsa Balcão, *primary source of Brazilian stock market and derivatives data <br/> 
+**B3, Brasil Bolsa Balcão**, *primary source of Brazilian stock market and derivatives data* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('B3ITEM')">More</a> | [Site][B3ITEM] ] </small>
 
 <div id="B3ITEM" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -426,7 +426,7 @@ B3 is the primary source for stock market and derivatives data in Brazil, widely
 
 <div id="BLOCK5" style="display: none; text-align: justify; line-height: 1.2" >
 
-*MapBiomas, *platform of land use, land cover, and environmental information <br/> 
+**MapBiomas**, *platform of land use, land cover, and environmental information* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('MAPBIOMASITEM')">More</a> | [Site][MAPBIOMASITEM] ] </small>
 
 <div id="MAPBIOMASITEM" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -437,7 +437,7 @@ MapBiomas is a set of platforms and databases on land use and land cover, defore
 [MAPBIOMASITEM]: https://brasil.mapbiomas.org/
 
 
-*ANA, Agência Nacional de Águas e Saneamento Básico, SNIRH e Hidroweb, *database system on water resources and hydrology <br/> 
+**ANA, Agência Nacional de Águas e Saneamento Básico, SNIRH e Hidroweb**, *database system on water resources and hydrology* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('ANAITEM')">More</a> | [Site][ANAITEM] ] </small>
 
 <div id="ANAITEM" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -448,7 +448,7 @@ ANA, together with SNIRH and Hidroweb, provides a set of databases on water reso
 [ANAITEM]: https://www.snirh.gov.br/
 
 
-*PRODES, INPE, *official system for monitoring native vegetation suppression <br/> 
+**PRODES, INPE**, *official system for monitoring native vegetation suppression* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('PRODESITEM')">More</a> | [Site][PRODESITEM] ] </small>
 
 <div id="PRODESITEM" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -459,7 +459,7 @@ PRODES is the official system for annual monitoring of native vegetation suppres
 [PRODESITEM]: https://www.obt.inpe.br/OBT/assuntos/programas/amazonia/prodes
 
 
-*Programa Queimadas, INPE, *platform for monitoring fire hotspots and wildfires <br/> 
+**Programa Queimadas, INPE**, *platform for monitoring fire hotspots and wildfires* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('QUEIMADASITEM')">More</a> | [Site][QUEIMADASITEM] ] </small>
 
 <div id="QUEIMADASITEM" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -470,7 +470,7 @@ Programa Queimadas is a database and platform for monitoring fire hotspots and w
 [QUEIMADASITEM]: https://terrabrasilis.dpi.inpe.br/queimadas/portal/
 
 
-*SEEG, Sistema de Estimativas de Emissões e Remoções de Gases de Efeito Estufa, *database on greenhouse gas emissions and removals <br/> 
+**SEEG, Sistema de Estimativas de Emissões e Remoções de Gases de Efeito Estufa**, *database on greenhouse gas emissions and removals* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('SEEGITEM')">More</a> | [Site][SEEGITEM] ] </small>
 
 <div id="SEEGITEM" style="display: none; text-align: justify; line-height: 1.2" ><small>
