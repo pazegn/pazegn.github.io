@@ -13,14 +13,6 @@ Some useful links and other stuff
 - - -
 <br/>
 
-<p>
-  <a href="javascript:void(0)" onclick="visib('BLOCK1')" style="text-decoration: none;">
-    <em>▸ General, demographic, and socioeconomic databases</em>
-  </a>
-</p>
-
-<div id="BLOCK1" style="display: none; text-align: justify; line-height: 1.2" >
-
 **PNAD Contínua, IBGE**, *household sample survey on labor, income, education, and demographic conditions* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('PNADC')">More</a> | [Site][PNADC] ] </small>
 
@@ -119,15 +111,7 @@ CadÚnico is an administrative registry of low income families, widely used in s
 
 [CADUNICO]: https://www.gov.br/mds/pt-br/acoes-e-programas/cadastro-unico
 
-</div>
 
-<p>
-  <a href="javascript:void(0)" onclick="visib('BLOCK1')" style="text-decoration: none;">
-    <em>▸ Labor market, education, and social policies</em>
-  </a>
-</p>
-
-<div id="BLOCK2" style="display: none; text-align: justify; line-height: 1.2" >
 
 **RAIS, Relação Anual de Informações Sociais, Ministério do Trabalho e Emprego**, *administrative registry of the formal labor market* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('RAISITEM')">More</a> | [Site][RAISITEM] ] </small>
@@ -227,16 +211,7 @@ IDEB is a composite indicator that combines school progression, obtained from Ce
 
 [IDEBITEM]: https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb
 
-</div>
 
-
-<p>
-  <a href="javascript:void(0)" onclick="visib('BLOCK1')" style="text-decoration: none;">
-    <em>▸ Regional, urban, public sector, and territorial databases</em>
-  </a>
-</p>
-
-<div id="BLOCK3" style="display: none; text-align: justify; line-height: 1.2" >
 
 **Produto Interno Bruto dos Municípios, IBGE**, *municipal GDP and sectoral value added database* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('PIBMUNITEM')">More</a> | [Site][PIBMUNITEM] ] </small>
@@ -347,16 +322,7 @@ The Portal de Dados Abertos do TSE provides data on the electorate, candidacies,
 
 [TSEITEM]: https://dadosabertos.tse.jus.br/
 
-</div>
 
-
-<p>
-  <a href="javascript:void(0)" onclick="visib('BLOCK1')" style="text-decoration: none;">
-    <em>▸ Productive structure, firms, trade, and finance</em>
-  </a>
-</p>
-
-<div id="BLOCK4" style="display: none; text-align: justify; line-height: 1.2" >
 
 **PIA, Pesquisa Industrial Anual, IBGE**, *structural database of Brazilian industry* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('PIAITEM')">More</a> | [Site][PIAITEM] ] </small>
@@ -434,16 +400,7 @@ B3 is the primary source for stock market and derivatives data in Brazil, widely
 
 [B3ITEM]: https://www.b3.com.br/pt_br/market-data-e-indices/servicos-de-dados/market-data/
 
-</div>
 
-
-<p>
-  <a href="javascript:void(0)" onclick="visib('BLOCK1')" style="text-decoration: none;">
-    <em>▸ Environment, land use, and climate change</em>
-  </a>
-</p>
-
-<div id="BLOCK5" style="display: none; text-align: justify; line-height: 1.2" >
 
 **MapBiomas**, *platform of land use, land cover, and environmental information* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('MAPBIOMASITEM')">More</a> | [Site][MAPBIOMASITEM] ] </small>
