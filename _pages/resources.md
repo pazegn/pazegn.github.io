@@ -13,7 +13,7 @@ Some useful links and other stuff
 
 <p><a href="javascript:void(0)" onclick="toggleBlock('BLOCK1')" style="text-decoration:none;"><strong>▸ General, demographic, and socioeconomic databases</strong></a></p>
 
-<div id="BLOCK1" markdown="1" style="display: none; margin-bottom: 1.5em;">
+<div id="BLOCK1" markdown="1" style="display: none; margin-bottom: 1.5em; padding-left: 24px; border-left: 3px solid #e0e0e0;">
 
 **PNAD Contínua, IBGE**, *household sample survey on labor, income, education, and demographic conditions* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('PNADC')">More</a> | [Site][PNADC] ] </small>
@@ -109,7 +109,7 @@ CadÚnico is an administrative registry of low income families, widely used in s
 
 <p><a href="javascript:void(0)" onclick="toggleBlock('BLOCK2')" style="text-decoration:none;"><strong>▸ Labor market, education, and social policies</strong></a></p>
 
-<div id="BLOCK2" markdown="1" style="display: none; margin-bottom: 1.5em;">
+<div id="BLOCK2" markdown="1" style="display: none; margin-bottom: 1.5em; padding-left: 24px; border-left: 3px solid #e0e0e0;">
 
 **RAIS, Relação Anual de Informações Sociais, Ministério do Trabalho e Emprego**, *administrative registry of the formal labor market* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('RAISITEM')">More</a> | [Site][RAISITEM] ] </small>
@@ -205,7 +205,7 @@ IDEB is a composite indicator that combines school progression, obtained from Ce
 
 <p><a href="javascript:void(0)" onclick="toggleBlock('BLOCK3')" style="text-decoration:none;"><strong>▸ Regional, urban, public sector, and territorial databases</strong></a></p>
 
-<div id="BLOCK3" markdown="1" style="display: none; margin-bottom: 1.5em;">
+<div id="BLOCK3" markdown="1" style="display: none; margin-bottom: 1.5em; padding-left: 24px; border-left: 3px solid #e0e0e0;">
 
 **Produto Interno Bruto dos Municípios, IBGE**, *municipal GDP and sectoral value added database* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('PIBMUNITEM')">More</a> | [Site][PIBMUNITEM] ] </small>
@@ -311,7 +311,7 @@ The Portal de Dados Abertos do TSE provides data on the electorate, candidacies,
 
 <p><a href="javascript:void(0)" onclick="toggleBlock('BLOCK4')" style="text-decoration:none;"><strong>▸ Productive structure, firms, trade, and finance</strong></a></p>
 
-<div id="BLOCK4" markdown="1" style="display: none; margin-bottom: 1.5em;">
+<div id="BLOCK4" markdown="1" style="display: none; margin-bottom: 1.5em; padding-left: 24px; border-left: 3px solid #e0e0e0;">
 
 **PIA, Pesquisa Industrial Anual, IBGE**, *structural database of Brazilian industry* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('PIAITEM')">More</a> | [Site][PIAITEM] ] </small>
@@ -387,7 +387,7 @@ B3 is the primary source for stock market and derivatives data in Brazil, widely
 
 <p><a href="javascript:void(0)" onclick="toggleBlock('BLOCK5')" style="text-decoration:none;"><strong>▸ Environment, land use, and climate change</strong></a></p>
 
-<div id="BLOCK5" markdown="1" style="display: none; margin-bottom: 1.5em;">
+<div id="BLOCK5" markdown="1" style="display: none; margin-bottom: 1.5em; padding-left: 24px; border-left: 3px solid #e0e0e0;">
 
 **MapBiomas**, *platform of land use, land cover, and environmental information* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('MAPBIOMASITEM')">More</a> | [Site][MAPBIOMASITEM] ] </small>
