@@ -13,7 +13,11 @@ Some useful links and other stuff
 - - -
 <br/>
 
-*<a href="javascript:void(0)" onclick="visib('BLOCK1')" style="text-decoration: none;">▸ General, demographic, and socioeconomic databases</a>*
+<p>
+  <a href="javascript:void(0)" onclick="visib('BLOCK1')" style="text-decoration: none;">
+    <em>▸ General, demographic, and socioeconomic databases</em>
+  </a>
+</p>
 
 <div id="BLOCK1" style="display: none; text-align: justify; line-height: 1.2" >
 
@@ -117,8 +121,11 @@ CadÚnico is an administrative registry of low income families, widely used in s
 
 </div>
 
-
-*<a href="javascript:void(0)" onclick="visib('BLOCK2')" style="text-decoration: none;">▸ Labor market, education, and social policies</a>*
+<p>
+  <a href="javascript:void(0)" onclick="visib('BLOCK1')" style="text-decoration: none;">
+    <em>▸ Labor market, education, and social policies</em>
+  </a>
+</p>
 
 <div id="BLOCK2" style="display: none; text-align: justify; line-height: 1.2" >
 
@@ -223,7 +230,11 @@ IDEB is a composite indicator that combines school progression, obtained from Ce
 </div>
 
 
-*<a href="javascript:void(0)" onclick="visib('BLOCK3')" style="text-decoration: none;">▸ Regional, urban, public sector, and territorial databases</a>*
+<p>
+  <a href="javascript:void(0)" onclick="visib('BLOCK1')" style="text-decoration: none;">
+    <em>▸ Regional, urban, public sector, and territorial databases</em>
+  </a>
+</p>
 
 <div id="BLOCK3" style="display: none; text-align: justify; line-height: 1.2" >
 
@@ -339,7 +350,11 @@ The Portal de Dados Abertos do TSE provides data on the electorate, candidacies,
 </div>
 
 
-*<a href="javascript:void(0)" onclick="visib('BLOCK4')" style="text-decoration: none;">▸ Productive structure, firms, trade, and finance</a>*
+<p>
+  <a href="javascript:void(0)" onclick="visib('BLOCK1')" style="text-decoration: none;">
+    <em>▸ Productive structure, firms, trade, and finance</em>
+  </a>
+</p>
 
 <div id="BLOCK4" style="display: none; text-align: justify; line-height: 1.2" >
 
@@ -422,7 +437,11 @@ B3 is the primary source for stock market and derivatives data in Brazil, widely
 </div>
 
 
-*<a href="javascript:void(0)" onclick="visib('BLOCK5')" style="text-decoration: none;">▸ Environment, land use, and climate change</a>*
+<p>
+  <a href="javascript:void(0)" onclick="visib('BLOCK1')" style="text-decoration: none;">
+    <em>▸ Environment, land use, and climate change</em>
+  </a>
+</p>
 
 <div id="BLOCK5" style="display: none; text-align: justify; line-height: 1.2" >
 
