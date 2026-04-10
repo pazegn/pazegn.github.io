@@ -441,7 +441,101 @@ SEEG is a database with estimates of greenhouse gas emissions and removals in Br
 
 </div>
 
+<a href="javascript:void(0)" onclick="visib('BLOCK6')" style="text-decoration: none;">▸ Bibliographic databases and scientific literature</a>
+
+<div id="BLOCK6" markdown="1" style="display: none; margin-bottom: 1.5em; padding-left: 24px; border-left: 3px solid #e0e0e0;">
+
+**IDEAS/RePEc**, *bibliographic database and research dissemination platform in Economics and Finance* <br/> 
+<small>[<a href="javascript:void(0)" onclick="visib('IDEASITEM')">More</a> | [Site][IDEASITEM] ] </small>
+
+<div id="IDEASITEM" style="display: none; text-align: justify; line-height: 1.2" ><small>
+IDEAS/RePEc is a bibliographic database and research dissemination platform in Economics and Finance, with a strong presence of working papers, articles, and software. It is widely used for literature review, document search, and for following academic production in the field. Access: public.
+ 
+</small><br><br/></div>
+
+[IDEASITEM]: https://ideas.repec.org/
+
+
+**EconLit, American Economic Association**, *specialized bibliographic database in Economics* <br/> 
+<small>[<a href="javascript:void(0)" onclick="visib('ECONLITITEM')">More</a> | [Site][ECONLITITEM] ] </small>
+
+<div id="ECONLITITEM" style="display: none; text-align: justify; line-height: 1.2" ><small>
+EconLit is a specialized bibliographic database in Economics, indexed by JEL codes and covering articles, books, book chapters, dissertations, and working papers. It is especially useful for structured literature review in Economics. Access: usually by institutional subscription, with specific modalities for AEA members.
+ 
+</small><br><br/></div>
+
+[ECONLITITEM]: https://www.aeaweb.org/econlit/
+
+
+**Scopus**, *multidisciplinary database of abstracts and citations* <br/> 
+<small>[<a href="javascript:void(0)" onclick="visib('SCOPUSITEM')">More</a> | [Site][SCOPUSITEM] ] </small>
+
+<div id="SCOPUSITEM" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Scopus is a multidisciplinary database of abstracts and citations, widely used in systematic reviews, bibliometrics, and literature surveys in applied Economics. It is especially useful for citation tracking and broader interdisciplinary searches. Access: institutional subscription.
+ 
+</small><br><br/></div>
+
+[SCOPUSITEM]: https://www.elsevier.com/products/scopus
+
+
+**Web of Science**, *multidisciplinary indexing and citation database* <br/> 
+<small>[<a href="javascript:void(0)" onclick="visib('WOSITEM')">More</a> | [Site][WOSITEM] ] </small>
+
+<div id="WOSITEM" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Web of Science is a multidisciplinary indexing and citation database widely used for literature review, bibliometric analysis, and studies of scientific impact. It is especially useful for citation based evaluation and structured academic searches. Access: institutional subscription.
+ 
+</small><br><br/></div>
+
+[WOSITEM]: https://clarivate.com/academia-government/scientific-and-academic-research/research-discovery-and-referencing/web-of-science/
+
+
+*Google Scholar*, *open search tool for academic* literature <br/> 
+<small>[<a href="javascript:void(0)" onclick="visib('GSCHOLARITEM')">More</a> | [Site][GSCHOLARITEM] ] </small>
+
+<div id="GSCHOLARITEM" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Google Scholar is an open search tool for academic literature, useful for the initial search of articles, books, theses, working papers, and citations. It is especially useful for broad exploratory searches and citation tracking. Access: public.
+ 
+</small><br><br/></div>
+
+[GSCHOLARITEM]: https://scholar.google.com/
+
+
+**JSTOR**, *digital library of journals, books, and primary sources* <br/> 
+<small>[<a href="javascript:void(0)" onclick="visib('JSTORITEM')">More</a> | [Site][JSTORITEM] ] </small>
+
+<div id="JSTORITEM" style="display: none; text-align: justify; line-height: 1.2" ><small>
+JSTOR is a digital library widely used for access to journals, books, and primary sources. In Economics, it is especially useful for consolidated literature and retrospective journal archives. Access: partly open, partly institutional subscription.
+ 
+</small><br><br/></div>
+
+[JSTORITEM]: https://www.jstor.org/
+
+
+**SSRN**, *repository of preprints and working papers* <br/> 
+<small>[<a href="javascript:void(0)" onclick="visib('SSRNITEM')">More</a> | [Site][SSRNITEM] ] </small>
+
+<div id="SSRNITEM" style="display: none; text-align: justify; line-height: 1.2" ><small>
+SSRN is a repository of preprints and working papers widely used in Economics, Finance, Law, and related fields. It is especially useful for accessing recent unpublished or early stage research. Access: public for basic consultation and registration.
+ 
+</small><br><br/></div>
+
+[SSRNITEM]: https://www.ssrn.com/
+
+
+**NBER Working Papers**, *working paper series of the National Bureau of Economic Research* <br/> 
+<small>[<a href="javascript:void(0)" onclick="visib('NBERITEM')">More</a> | [Site][NBERITEM] ] </small>
+
+<div id="NBERITEM" style="display: none; text-align: justify; line-height: 1.2" ><small>
+NBER Working Papers is a working paper series of the National Bureau of Economic Research, widely used in macroeconomics, labor, finance, health, development, and applied econometrics. It is especially useful for following frontier research in empirical Economics. Access: partially open, with restrictions on some recent texts.
+ 
+</small><br><br/></div>
+
+[NBERITEM]: https://www.nber.org/papers
+
+</div>
+
 <br/> 
+
 
 # <center> Main Economics Meetings in Brazil </center>
 - - -
