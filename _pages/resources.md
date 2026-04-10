@@ -441,7 +441,7 @@ SEEG is a database with estimates of greenhouse gas emissions and removals in Br
 
 </div>
 
-<a href="javascript:void(0)" onclick="visib('BLOCK6')" style="text-decoration: none;">▸ Bibliographic databases and scientific literature</a>
+<a href="javascript:void(0)" onclick="visib('BLOCK6')" style="text-decoration: none;">▸ **Bibliographic databases and scientific literature**</a>
 
 <div id="BLOCK6" markdown="1" style="display: none; margin-bottom: 1.5em; padding-left: 24px; border-left: 3px solid #e0e0e0;">
 
@@ -489,7 +489,7 @@ Web of Science is a multidisciplinary indexing and citation database widely used
 [WOSITEM]: https://clarivate.com/academia-government/scientific-and-academic-research/research-discovery-and-referencing/web-of-science/
 
 
-*Google Scholar*, *open search tool for academic* literature <br/> 
+**Google Scholar**, *open search tool for academic* literature <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('GSCHOLARITEM')">More</a> | [Site][GSCHOLARITEM] ] </small>
 
 <div id="GSCHOLARITEM" style="display: none; text-align: justify; line-height: 1.2" ><small>
