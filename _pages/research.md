@@ -64,7 +64,7 @@ This paper aims to analyse and make visible the solidarity of economic small ent
 # <center> Working Papers </center>
 - - -
 
-**Human capital and turnover in brazilian formal employment: a regional and sectoral analysis between 2019 and 2022.**, written by Paz, E. G. N., Silva, A. B *Anais do XXXI Encontro Nacional de Economia Política. Rio de Janeiro: Sociedade Brasileira de Economia Política (SEP), 2026.* <br/> 
+**Human capital and turnover in brazilian formal employment: a regional and sectoral analysis between 2019 and 2022.**, written by Paz, E. G. N., Silva, A. B. *Anais do XXXI Encontro Nacional de Economia Política. Rio de Janeiro: Sociedade Brasileira de Economia Política (SEP), 2026.* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('CAPIHU')">Abstract</a> | [Paper][CAPIHUSEP] ]
 </small>
 
