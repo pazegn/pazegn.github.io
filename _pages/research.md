@@ -64,6 +64,33 @@ This paper aims to analyse and make visible the solidarity of economic small ent
 # <center> Working Papers </center>
 - - -
 
+**Human capital and turnover in brazilian formal employment: a regional and sectoral analysis between 2019 and 2022.**, written by Paz, E. G. N., Silva, A. B *Anais do XXXI Encontro Nacional de Economia Política. Rio de Janeiro: Sociedade Brasileira de Economia Política (SEP), 2026.* <br/> 
+<small>[<a href="javascript:void(0)" onclick="visib('CAPIHU')">Abstract</a> | [Paper][CAPIHUSEP] ]
+</small>
+
+<div id="CAPIHU" style="display: none; text-align: justify; line-height: 1.2" ><small>
+This article analyzes the relationship between human capital and labor turnover in the Brazilian formal labor market, comparing 2019 and 2022, with regional and sectoral breakdowns. It starts from the problem that high turnover reduces job retention, interrupts the accumulation of experience, and limits the effective use of the workforce’s qualifications. Based on microdata from the Annual Report of Social Information, RAIS, the study employs comparative descriptive statistics to examine turnover across regions, sectors of activity, education levels, sex, race/color, and average real earnings. The indicator was constructed using the worker replacement measure, based on the lower value between hires and separations relative to the average stock of employment. The results show an increase in turnover in all regions between 2019 and 2022, with greater intensity in the South and Midwest, indicating greater relative instability of formal employment ties in the post pandemic period. A clear educational gradient is also observed, with higher turnover among workers with lower levels of schooling and greater relative stability among those with higher education, a master’s degree, and a doctoral degree. It is concluded that educational attainment tends to be associated with greater stability in formal employment, but this effect is mediated by regional, sectoral, gender, and race/color inequalities. 
+
+</small><br><br/></div>
+
+
+[CAPIHUSEP]: https://www.sep.org.br/01_sites/01/index.php/enep-2/trabalhos-aprovados?fbclid=Iwb21leARgEbJjbGNrBGABF2V4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHlxA7ZR34pUXtRw7XuEEBM63KS4ApmB29lAODf2xJS8PkZhFVG4mnBo3QcpC_aem_4aiJiLalbFOTJa9UGoQLjA
+
+
+**The Cerrado in the shadow of European anti-deforestation regulation: limits of European legislation.**, written by Ribeiro, L. V. L., Paz, E. G. N., Aramaki, M. M. N. *Anais do XXXI Encontro Nacional de Economia Política. Rio de Janeiro: Sociedade Brasileira de Economia Política (SEP), 2026.* <br/> 
+<small>[<a href="javascript:void(0)" onclick="visib('CERR')">Abstract</a> | [Paper][CERRSEP] ]
+</small>
+
+<div id="CERR" style="display: none; text-align: justify; line-height: 1.2" ><small>
+The article analyzes the implications of the European Union Deforestation Regulation, EUDR, for the Brazilian Cerrado, highlighting its limits as a demand-side regulatory instrument in international trade. The study discusses to what extent this regulation, although aimed at reducing deforestation associated with global commodity chains, faces constraints in promoting sustainability and may produce indirect effects on producer countries, with territorial repercussions in Brazil. It is argued that, by being embedded in a fragmented architecture of environmental governance and by privileging forest-centered regulatory approaches, the EUDR tends to relegate non-forest ecosystems to a secondary position, thereby creating conditions for the displacement of pressure for land-use change. Based on the frameworks of Earth system governance and international forest governance, the text situates the EUDR within a complex regime marked by institutional overlaps, regulatory gaps, and power asymmetries. It is concluded that the regulation can discipline supply chains and induce socio-environmental compliance, but its effectiveness depends on coordination with domestic frameworks, broader regulatory scope, and recognition of the strategic relevance of non-forest biomes. 
+
+</small><br><br/></div>
+
+
+[CERRSEP]: https://www.sep.org.br/01_sites/01/index.php/enep-2/trabalhos-aprovados?fbclid=Iwb21leARgEbJjbGNrBGABF2V4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHlxA7ZR34pUXtRw7XuEEBM63KS4ApmB29lAODf2xJS8PkZhFVG4mnBo3QcpC_aem_4aiJiLalbFOTJa9UGoQLjA
+
+
+
 **Analysis of Wage Curves for Formal and Informal Workers in Urban Brazil Between 2012 and 2023.**, written by Paz, E. G. N., Brito, D. J. M., & Silva, M. V. A. E. *Anais do XX Encontro Regional de Economia. Aracajú-SE: Associação Nacional dos Centros de Pós-Graduação em Economia (ANPEC), 2025.* & *Anais do XXIII Encontro Nacional da Associação Brasileira de Estudos Regionais. Ilhéus-BA:  Associação Brasileira de Estudos Regionais (ABER), 2025.* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('CURVAS')">Abstract</a> | [Paper ANPEC][CURVASAN] | [Paper ABER][CURVASAB] ] </small>
 
