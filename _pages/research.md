@@ -74,7 +74,7 @@ This article analyzes the relationship between human capital and labor turnover 
 </small><br><br/></div>
 
 
-[CAPIHUSEP]: https://www.sep.org.br/01_sites/01/index.php/enep-2/trabalhos-aprovados?fbclid=Iwb21leARgEbJjbGNrBGABF2V4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHlxA7ZR34pUXtRw7XuEEBM63KS4ApmB29lAODf2xJS8PkZhFVG4mnBo3QcpC_aem_4aiJiLalbFOTJa9UGoQLjA
+[CAPIHUSEP]: https://enep.sep.org.br/uploads/3074_1774202704_01_-_Manuscrito_-_Identificado_-_ENEP_pdf_ide.pdf
 
 
 **The Cerrado in the shadow of European anti-deforestation regulation: limits of European legislation.**, written by Ribeiro, L. V. L., Paz, E. G. N., Aramaki, M. M. N. *Anais do XXXI Encontro Nacional de Economia Política. Rio de Janeiro: Sociedade Brasileira de Economia Política (SEP), 2026.* <br/> 
@@ -87,7 +87,7 @@ The article analyzes the implications of the European Union Deforestation Regula
 </small><br><br/></div>
 
 
-[CERRSEP]: https://www.sep.org.br/01_sites/01/index.php/enep-2/trabalhos-aprovados?fbclid=Iwb21leARgEbJjbGNrBGABF2V4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHlxA7ZR34pUXtRw7XuEEBM63KS4ApmB29lAODf2xJS8PkZhFVG4mnBo3QcpC_aem_4aiJiLalbFOTJa9UGoQLjA
+[CERRSEP]: https://enep.sep.org.br/uploads/3074_1774274233_02_-_ENEP_-_Identificado_pdf_ide.pdf
 
 
 
