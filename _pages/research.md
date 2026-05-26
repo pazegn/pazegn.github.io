@@ -64,9 +64,8 @@ This paper aims to analyse and make visible the solidarity of economic small ent
 # <center> Working Papers </center>
 - - -
 
-**Human capital and turnover in brazilian formal employment: a regional and sectoral analysis between 2019 and 2022.**, written by Paz, E. G. N., Silva, A. B. *Anais do XXXI Encontro Nacional de Economia Política. Rio de Janeiro: Sociedade Brasileira de Economia Política (SEP), 2026.* <br/> 
-<small>[<a href="javascript:void(0)" onclick="visib('CAPIHU')">Abstract</a> | [Paper][CAPIHUSEP] ]
-</small>
+**Human capital and turnover in brazilian formal employment: a regional and sectoral analysis between 2019 and 2022.**, written by Paz, E. G. N., Silva, A. B. *Anais do XXXI Encontro Nacional de Economia Política. Rio de Janeiro: Sociedade Brasileira de Economia Política (SEP), 2026.* & *Anais do XXIX Encontro Regional de Economia da Região Sul. Florianópolis-SC: Associação Nacional dos Centros de Pós-Graduação em Economia (ANPEC), 2026* <br/> 
+<small>[<a href="javascript:void(0)" onclick="visib('CAPIHU')">Abstract</a> | [Paper SEP][CAPIHUSEP] | [Paper ANPEC][CAPIHUANPECSU]] </small>
 
 <div id="CAPIHU" style="display: none; text-align: justify; line-height: 1.2" ><small>
 This article analyzes the relationship between human capital and labor turnover in the Brazilian formal labor market, comparing 2019 and 2022, with regional and sectoral breakdowns. It starts from the problem that high turnover reduces job retention, interrupts the accumulation of experience, and limits the effective use of the workforce’s qualifications. Based on microdata from the Annual Report of Social Information, RAIS, the study employs comparative descriptive statistics to examine turnover across regions, sectors of activity, education levels, sex, race/color, and average real earnings. The indicator was constructed using the worker replacement measure, based on the lower value between hires and separations relative to the average stock of employment. The results show an increase in turnover in all regions between 2019 and 2022, with greater intensity in the South and Midwest, indicating greater relative instability of formal employment ties in the post pandemic period. A clear educational gradient is also observed, with higher turnover among workers with lower levels of schooling and greater relative stability among those with higher education, a master’s degree, and a doctoral degree. It is concluded that educational attainment tends to be associated with greater stability in formal employment, but this effect is mediated by regional, sectoral, gender, and race/color inequalities. 
@@ -75,6 +74,7 @@ This article analyzes the relationship between human capital and labor turnover 
 
 
 [CAPIHUSEP]: https://enep.sep.org.br/uploads/3074_1774202704_01_-_Manuscrito_-_Identificado_-_ENEP_pdf_ide.pdf
+[CAPIHUANPECSU]: https://www.anpec.org.br/sul/2026/submissao/files_I/i3-6d863c9096452a14e9a09caef3375a77.pdf
 
 
 **The Cerrado in the shadow of European anti-deforestation regulation: limits of European legislation.**, written by Ribeiro, L. V. L., Paz, E. G. N., Aramaki, M. M. N. *Anais do XXXI Encontro Nacional de Economia Política. Rio de Janeiro: Sociedade Brasileira de Economia Política (SEP), 2026.* <br/> 
