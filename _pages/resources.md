@@ -537,58 +537,94 @@ NBER Working Papers is a working paper series of the National Bureau of Economic
 <br/> 
 
 
-# <center> Main Economics Meetings in Brazil </center>
+# <center> Main Economics Meetings </center>
 - - -
 
+<p><a href="javascript:void(0)" onclick="toggleBlock('MEETINGSBRAZIL')" style="text-decoration:none;"><strong>▸ Economics meetings in Brazil</strong></a></p>
 
-**(ANPEC) Encontro Nacional de Economia**, *da Associação Nacional dos Centros de Pósgraduação em Economia* <br/> 
+<div id="MEETINGSBRAZIL" markdown="1" style="display: none; margin-bottom: 1.5em; padding-left: 24px; border-left: 3px solid #e0e0e0;">
+
+**(ANPEC) Encontro Nacional de Economia**, *da Associação Nacional dos Centros de Pós-Graduação em Economia* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('ANPEC')">More</a> | [Site][ANPEC] ] </small>
 
-<div id="ANPEC" style="display: none; text-align: justify; line-height: 1.2" ><small>
-The Encontro Nacional de Economia, organized by the Associação Nacional dos Centros de Pósgraduação em Economia, is one of the main academic meetings in Economics in Brazil. It typically gathers research in microeconomics, macroeconomics, econometrics, economic development, public economics, labor economics, international economics, and applied fields more broadly. It is a key venue for faculty members, researchers, and graduate students.
+<div id="ANPEC" style="display: none; text-align: justify; line-height: 1.2"><small>
+The Encontro Nacional de Economia, organized by the Associação Nacional dos Centros de Pós-Graduação em Economia, is one of the main academic meetings in Economics in Brazil. It typically gathers research in microeconomics, macroeconomics, econometrics, economic development, public economics, labor economics, international economics, and applied fields more broadly. It is a key venue for faculty members, researchers, and graduate students.
  
 </small><br><br/></div>
 
 [ANPEC]: https://en.anpec.org.br/
 
 
-**(ANPEC-Sul) Encontro de Economia da Região Sul**, *da Associação Nacional dos Centros de Pósgraduação em Economia* <br/> 
+**(SBE) Encontro Brasileiro de Econometria**, *da Sociedade Brasileira de Econometria* <br/> 
+<small>[<a href="javascript:void(0)" onclick="visib('SBE')">More</a> | [Site][SBE] ] </small>
+
+<div id="SBE" style="display: none; text-align: justify; line-height: 1.2"><small>
+The Encontro Brasileiro de Econometria, organized by the Sociedade Brasileira de Econometria, is one of the leading academic meetings in Economics in Brazil. It brings together theoretical and empirical research in econometrics, applied microeconomics, applied macroeconomics, finance, and economic theory. The meeting is an important venue for faculty members, researchers, and graduate students to present and discuss current research.
+ 
+</small><br><br/></div>
+
+[SBE]: https://www.sbe.org.br/encontro/
+
+
+**(ANPEC-Sul) Encontro de Economia da Região Sul**, *da Associação Nacional dos Centros de Pós-Graduação em Economia* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('ANPECS')">More</a> | [Site][ANPECS] ] </small>
 
-<div id="ANPECS" style="display: none; text-align: justify; line-height: 1.2" ><small>
+<div id="ANPECS" style="display: none; text-align: justify; line-height: 1.2"><small>
 The Encontro de Economia da Região Sul is an important regional academic meeting. It usually includes research on regional development, labor markets, agricultural economics, public policy, economic history, and applied quantitative methods, with strong participation from researchers based in Southern Brazil.
  
 </small><br><br/></div>
 
-[ANPECS]: https://www.anpec.org.br/novosite/br/xxix-encontro-de-economia-da-regiao-sul 
+[ANPECS]: https://www.anpec.org.br/novosite/br/xxix-encontro-de-economia-da-regiao-sul
 
 
-**(ANPEC-NE) Encontro Regional de Economia do Nordeste**, *da Associação Nacional dos Centros de Pósgraduação em Economia* <br/> 
+**(ANPEC-NE) Encontro Regional de Economia do Nordeste**, *da Associação Nacional dos Centros de Pós-Graduação em Economia* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('ANPECNE')">More</a> | [Site][ANPECNE] ] </small>
 
-<div id="ANPECNE" style="display: none; text-align: justify; line-height: 1.2" ><small>
+<div id="ANPECNE" style="display: none; text-align: justify; line-height: 1.2"><small>
 The Encontro Regional de Economia do Nordeste is a major forum focused on economic issues related to the Northeast of Brazil. Common topics include regional inequality, economic development, poverty, labor markets, public policy, rural dynamics, productive structure, and social indicators.
  
 </small><br><br/></div>
 
-[ANPECNE]:  https://www.anpec.org.br/novosite/br/xxxi-encontro-regional-de-economia 
+[ANPECNE]: https://www.anpec.org.br/novosite/br/xxxi-encontro-regional-de-economia
 
 
 **(ABER) Encontro Nacional da Associação Brasileira de Estudos Regionais e Urbanos** <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('ABER')">More</a> | [Site][ABER] ] </small>
 
-<div id="ABER" style="display: none; text-align: justify; line-height: 1.2" ><small>
+<div id="ABER" style="display: none; text-align: justify; line-height: 1.2"><small>
 The Encontro Nacional da Associação Brasileira de Estudos Regionais e Urbanos is a leading meeting for regional and urban economics. It commonly addresses regional development, urbanization, spatial inequality, housing, transport, urban and regional planning, territorial policies, and spatial econometrics.
  
 </small><br><br/></div>
 
-[ABER]:  https://brsa.org.br/encontros/ 
+[ABER]: https://brsa.org.br/encontros/
+
+
+**(ENEI) Encontro Nacional de Economia Industrial e Inovação**, *da Associação Brasileira de Economia Industrial e Inovação* <br/> 
+<small>[<a href="javascript:void(0)" onclick="visib('ENEI')">More</a> | [Site][ENEI] ] </small>
+
+<div id="ENEI" style="display: none; text-align: justify; line-height: 1.2"><small>
+The Encontro Nacional de Economia Industrial e Inovação, organized by the Associação Brasileira de Economia Industrial e Inovação, is a major Brazilian forum for research on industrial economics and innovation. It usually includes studies on industrial organization, technological change, innovation systems, industrial policy, firm performance, productive development, regional industry, sustainability, and energy transition. The meeting attracts researchers, faculty members, graduate students, and professionals working on industrial and innovation policy.
+ 
+</small><br><br/></div>
+
+[ENEI]: https://www.abein.org/
+
+
+**(EBFin) Encontro Brasileiro de Finanças**, *da Sociedade Brasileira de Finanças* <br/> 
+<small>[<a href="javascript:void(0)" onclick="visib('EBFIN')">More</a> | [Site][EBFIN] ] </small>
+
+<div id="EBFIN" style="display: none; text-align: justify; line-height: 1.2"><small>
+The Encontro Brasileiro de Finanças, organized by the Sociedade Brasileira de Finanças, is the main academic meeting dedicated to Finance in Brazil. Its program generally covers asset pricing, corporate finance, banking, financial econometrics, macrofinance, derivatives, risk management, and financial markets. The meeting brings together faculty members, researchers, graduate and undergraduate students, and financial market professionals from Brazil and other countries.
+ 
+</small><br><br/></div>
+
+[EBFIN]: https://www.sbfin.org.br/pt/eventos
 
 
 **(ABEP) Encontro Nacional de Estudos Populacionais**, *da Associação Brasileira de Estudos Populacionais* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('ABEP')">More</a> | [Site][ABEP] ] </small>
 
-<div id="ABEP" style="display: none; text-align: justify; line-height: 1.2" ><small>
+<div id="ABEP" style="display: none; text-align: justify; line-height: 1.2"><small>
 The Encontro Nacional de Estudos Populacionais is one of the main Brazilian meetings in demography, with strong connections to economics and the social sciences. It covers topics such as fertility, mortality, migration, aging, family dynamics, labor markets, demographic transition, survey methods, and the relationship between population dynamics and public policy.
  
 </small><br><br/></div>
@@ -596,10 +632,21 @@ The Encontro Nacional de Estudos Populacionais is one of the main Brazilian meet
 [ABEP]: https://www.abep.org.br/abep/page/258-home
 
 
+**(EnABrES) Encontro Nacional de Economia da Saúde**, *da Associação Brasileira de Economia da Saúde* <br/> 
+<small>[<a href="javascript:void(0)" onclick="visib('ENABRES')">More</a> | [Site][ENABRES] ] </small>
+
+<div id="ENABRES" style="display: none; text-align: justify; line-height: 1.2"><small>
+The Encontro Nacional de Economia da Saúde, organized by the Associação Brasileira de Economia da Saúde, is a national forum for research and policy discussion in health economics. Its program usually includes health financing, resource allocation, economic evaluation, health technology assessment, public and private healthcare provision, health inequalities, and the political economy of health. The meeting brings together economists, health researchers, public officials, faculty members, students, and professionals working in health policy and management.
+ 
+</small><br><br/></div>
+
+[ENABRES]: https://abresbrasil.org.br/
+
+
 **(SEP) Encontro Nacional de Economia Política**, *da Sociedade Brasileira de Economia Política* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('SEP')">More</a> | [Site][SEP] ] </small>
 
-<div id="SEP" style="display: none; text-align: justify; line-height: 1.2" ><small>
+<div id="SEP" style="display: none; text-align: justify; line-height: 1.2"><small>
 The Encontro Nacional de Economia Política is an important forum for political economy and heterodox approaches. It includes research on capitalism, economic crises, development, the State, public policy, history of economic thought, inequality, labor, and contemporary transformations in the global economy.
  
 </small><br><br/></div>
@@ -610,42 +657,78 @@ The Encontro Nacional de Economia Política is an important forum for political 
 **(ABET) Encontro Nacional da Associação Brasileira de Estudos do Trabalho** <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('ABET')">More</a> | [Site][ABET] ] </small>
 
-<div id="ABET" style="display: none; text-align: justify; line-height: 1.2" ><small>
+<div id="ABET" style="display: none; text-align: justify; line-height: 1.2"><small>
 The Encontro Nacional da Associação Brasileira de Estudos do Trabalho is a major academic meeting dedicated to labor studies. It typically includes research on labor markets, employment, informality, unions, labor law, social protection, platform work, gender and race inequalities, and structural changes in labor relations.
  
 </small><br><br/></div>
 
-[ABET]: https://abet-trabalho.org.br/ 
+[ABET]: https://abet-trabalho.org.br/
 
 
 **(SOBER) Congresso da Sociedade Brasileira de Economia, Administração e Sociologia Rural** <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('SOBER')">More</a> | [Site][SOBER] ] </small>
 
-<div id="SOBER" style="display: none; text-align: justify; line-height: 1.2" ><small>
+<div id="SOBER" style="display: none; text-align: justify; line-height: 1.2"><small>
 The Congresso da Sociedade Brasileira de Economia, Administração e Sociologia Rural is one of the main national meetings focused on agricultural and rural economics. It usually covers agricultural economics, rural development, agribusiness, public policy for agriculture, food systems, sustainability, cooperativism, and quantitative applications related to the rural sector.
  
 </small><br><br/></div>
 
-[SOBER]: https://sober.org.br/ 
+[SOBER]: https://sober.org.br/
 
 
 **(ECOECO) Encontro Nacional da Sociedade Brasileira de Economia Ecológica** <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('ECOECO')">More</a> | [Site][ECOECO] ] </small>
 
-<div id="ECOECO" style="display: none; text-align: justify; line-height: 1.2" ><small>
+<div id="ECOECO" style="display: none; text-align: justify; line-height: 1.2"><small>
 The Encontro Nacional da Sociedade Brasileira de Economia Ecológica is the main Brazilian event dedicated to ecological economics. It addresses topics such as environment and development, climate change, socioecological transitions, biodiversity, sustainability, energy, environmental justice, and natural resource use.
  
 </small><br><br/></div>
 
-[ECOECO]: http://ecoeco.org.br/ 
+[ECOECO]: http://ecoeco.org.br/
+
+</div>
 
 
-<br/> 
+<p><a href="javascript:void(0)" onclick="toggleBlock('MEETINGSOTHER')" style="text-decoration:none;"><strong>▸ International and other economics meetings</strong></a></p>
 
-# <center> Journal Rankings </center>
-- - -
+<div id="MEETINGSOTHER" markdown="1" style="display: none; margin-bottom: 1.5em; padding-left: 24px; border-left: 3px solid #e0e0e0;">
 
-wait, under construction...
+**(LASA) International Congress of the Latin American Studies Association**, *of the Latin American Studies Association* <br/> 
+<small>[<a href="javascript:void(0)" onclick="visib('LASA')">More</a> | [Site][LASA] ] </small>
+
+<div id="LASA" style="display: none; text-align: justify; line-height: 1.2"><small>
+The International Congress of the Latin American Studies Association is one of the main international academic meetings devoted to Latin America and the Caribbean. Although interdisciplinary, the congress includes a substantial Economics and Political Economy program, with research on economic development, labor markets, inequality, public policy, environmental issues, agriculture, institutions, and international political economy. English, Spanish, French, and Portuguese are official languages of LASA congresses.
+ 
+</small><br><br/></div>
+
+[LASA]: https://lasaweb.org/en/
+
+
+**(APDR) Congress of the Portuguese Association for Regional Development**, *of the Associação Portuguesa para o Desenvolvimento Regional* <br/> 
+<small>[<a href="javascript:void(0)" onclick="visib('APDR')">More</a> | [Site][APDR] ] </small>
+
+<div id="APDR" style="display: none; text-align: justify; line-height: 1.2"><small>
+The Congress of the Associação Portuguesa para o Desenvolvimento Regional is an international meeting focused on regional science and territorial development. It commonly includes research on regional and urban economics, spatial analysis, territorial inequalities, labor mobility, rural development, innovation, environmental transition, regional policy, and multilevel governance. The congress attracts economists, geographers, urban planners, sociologists, policy analysts, faculty members, researchers, and graduate students from several countries.
+ 
+</small><br><br/></div>
+
+[APDR]: https://apdr.pt/congressos-workshops/
+
+
+**(CIELO) CIELO Laboral World Congress**, *of the Comunidad para la Investigación y el Estudio Laboral y Ocupacional* <br/> 
+<small>[<a href="javascript:void(0)" onclick="visib('CIELO')">More</a> | [Site][CIELO] ] </small>
+
+<div id="CIELO" style="display: none; text-align: justify; line-height: 1.2"><small>
+The CIELO Laboral World Congress is an interdisciplinary international meeting on labor, employment, social protection, and occupational relations. Its program includes subjects directly related to labor economics, such as technological change, digital platforms, informal employment, skills, demographic transitions, green employment, care work, labor market regulation, and social protection policies. The congress brings together economists, legal scholars, sociologists, political scientists, researchers, students, and labor market professionals from different countries.
+ 
+</small><br><br/></div>
+
+[CIELO]: https://www.cielolaboral.com/eventi/
+
+</div>
+
+<br/>
+
 
 
 <script>
