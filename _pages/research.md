@@ -198,10 +198,6 @@ This article aims to analyze the context of the precarization of labor relations
 
 <br/> 
 
-# <center> Work in Progress </center>
-- - -
-wait, under construction…
-
 
 
 
