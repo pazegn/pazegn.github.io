@@ -139,7 +139,7 @@ author:
   # ----------------------------------------
   # Currículo Lattes (CNPq)
   # ----------------------------------------
-  - label: "Lattes"
+  - label: "Lattes (CNPq)"
     icon: "ai ai-lattes"   # ícone acadêmico (Academicons)
     url: "https://lattes.cnpq.br/9532379348547742"
 
@@ -174,13 +174,13 @@ footer:
     # ----------------------------------------
     - label: "WhatsApp"
       icon: "fab fa-fw fa-whatsapp"
-      url: "https://wa.me/message/ZWJV7W27PGLFE1"
+      url: "https://wa.me/5583998265966"
 
     # ----------------------------------------
     # Currículo Lattes (CNPq)
     # Usa ícone acadêmico (Academicons)
     # ----------------------------------------
-    - label: "Lattes"
+    - label: "Lattes (CNPq)"
       icon: "ai ai-lattes"
       url: "https://lattes.cnpq.br/9532379348547742"
 
