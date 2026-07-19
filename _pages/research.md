@@ -66,7 +66,7 @@ This paper aims to analyse and make visible the solidarity of economic small ent
 
 
 **Spatial wage curves in Brazil, 2012–2024: occupational segmentation, regional mobility, and skill heterogeneity**, written by Paz, E. G. N., Brito, D. J. M, Silva, M. V. A, Silva, D. L, G. *Anais do XXXI Encontro Regional de Economia do Nordeste. Natal-RN: Associação Nacional dos Centros de Pós-Graduação em Economia (ANPEC), 2026.* <br/> 
-<small>[<a href="javascript:void(0)" onclick="visib('ANPECNE')">Abstract</a> | [Paper ANPECNE][ANPECNE2026] ] </small>
+<small>[<a href="javascript:void(0)" onclick="visib('ANPECNE')">Abstract</a> | [Paper ANPEC][ANPECNE2026] ] </small>
 
 <div id="ANPECNE" style="display: none; text-align: justify; line-height: 1.2" ><small>
 This paper investigates the relationship between wages and unemployment in urban Brazil between 2012 and 2024, focusing on the differences between formal and informal workers and on the influence exerted by regional labor markets connected through migration flows. The study is grounded in the wage curve literature, according to which there is an inverse relationship between real wages and local unemployment. The empirical strategy seeks to identify wage curve estimates in Brazil while simultaneously considering occupational segmentation, spatial dependence, and sample selection correction. The analysis employs a spatial weighting matrix based on interstate migration flows, allowing the identification of connections between labor markets. The methodology combines multinomial selection models for formal employment, informal employment, and non-employment with spatial wage curve estimations using PNAD-C and RAIS microdata. The results confirm the existence of the wage curve for both formal and informal workers, although with significantly different elasticities. Among informal workers, a 1% increase in local unemployment reduces real wages by approximately 0.11%, whereas among formal workers the effect is around 0.04%, indicating greater wage flexibility in the informal sector. The findings also show that regional spillovers do not affect all groups homogeneously and reveal gender and qualification heterogeneities. The study contributes to the literature by showing that purely geographical matrices may fail to capture unemployment transmission mechanisms associated with regional labor market interactions. 
@@ -74,7 +74,7 @@ This paper investigates the relationship between wages and unemployment in urban
 </small><br><br/></div>
 
 
-[ANPECNE2026]: file:///C:/Users/Edson/Desktop/xxxi_encontro_regional_de_economia-trabalhos_selecionados-20260718.pdf
+[ANPECNE2026]: https://www.anpec.org.br/novosite/br/xxxi-encontro-regional-de-economia
 
 
 **Human capital and turnover in brazilian formal employment: a regional and sectoral analysis between 2019 and 2022.**, written by Paz, E. G. N., Silva, A. B. *Anais do XXXI Encontro Nacional de Economia Política. Rio de Janeiro: Sociedade Brasileira de Economia Política (SEP), 2026.* & *Anais do XXIX Encontro Regional de Economia da Região Sul. Florianópolis-SC: Associação Nacional dos Centros de Pós-Graduação em Economia (ANPEC), 2026* <br/> 
