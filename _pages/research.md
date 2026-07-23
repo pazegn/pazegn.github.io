@@ -74,7 +74,7 @@ This paper investigates the relationship between wages and unemployment in urban
 </small><br><br/></div>
 
 
-[ANPECNE2026]: https://www.anpec.org.br/novosite/br/xxxi-encontro-regional-de-economia
+[ANPECNE2026]: https://www.anpec.org.br/nordeste/2026/submissao/arquivos_identificados/082-81c271f040b957caffcd5c70ba72c867.pdf
 
 
 **Human capital and turnover in brazilian formal employment: a regional and sectoral analysis between 2019 and 2022.**, written by Paz, E. G. N., Silva, A. B. *Anais do XXXI Encontro Nacional de Economia Política. Rio de Janeiro: Sociedade Brasileira de Economia Política (SEP), 2026.* & *Anais do XXIX Encontro Regional de Economia da Região Sul. Florianópolis-SC: Associação Nacional dos Centros de Pós-Graduação em Economia (ANPEC), 2026* <br/> 
