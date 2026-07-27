@@ -209,6 +209,54 @@ This article aims to analyze the context of the precarization of labor relations
 
 
 
+# <center> Work in Progress </center>
+- - -
+
+**Prevent or Recover? The Municipal Allocation Pattern of Federal Funds for Disaster Management in Brazil between 2012 and 2024**, written by Mendes, A. T., Paz, E. G. N., & Nogueira, J. M. *In preparation for submission.* <br/> 
+<small>[<a href="javascript:void(0)" onclick="visib('DESASTRES')">Abstract</a>] </small>
+
+<div id="DESASTRES" style="display: none; text-align: justify; line-height: 1.2" ><small>
+This ongoing research investigates the allocation pattern of federal funds for disaster management in Brazilian municipalities. The study uses budgetary data and official disaster records to analyze the temporal and territorial distribution of spending on prevention, response, and recovery. The aim is to understand how these resources are distributed across the different phases of disaster management and how this allocation relates to the occurrence of events and reported losses.
+</small><br><br/></div>
+
+
+
+**Regional Distribution of Violence Against Women across Brazilian Federative Units: Evidence from the Brazilian Public Security Yearbook between 2016 and 2021**, written by Paz, E. G. N., Martins, H. B. O., Fernandes, R. A. S., & Loureiro, P. R. A. *In preparation for submission.* <br/> 
+<small>[<a href="javascript:void(0)" onclick="visib('VIOLENCIA')">Abstract</a>] </small>
+
+<div id="VIOLENCIA" style="display: none; text-align: justify; line-height: 1.2" ><small>
+This ongoing research analyzes the regional distribution of violence against women records in Brazil, focusing on femicide, rape, and attempted rape. The study uses data from the Brazilian Public Security Yearbook and socioeconomic indicators to examine the territorial heterogeneity of these records across Federative Units. The research aims to describe the evolution of rates and explore associations between different forms of recorded violence and the state-level context.
+</small><br><br/></div>
+
+
+
+**Intermunicipal Public Consortia and Controlled Landfills: A Sustainable Business Opportunity in the Brazilian Solid Waste Sector**, written by Paz, E. G. N., & Batista, L. G. A. *In preparation for submission.* <br/> 
+<small>[<a href="javascript:void(0)" onclick="visib('CONSORCIOS')">Abstract</a>] </small>
+
+<div id="CONSORCIOS" style="display: none; text-align: justify; line-height: 1.2" ><small>
+This ongoing research examines the potential of intermunicipal public consortia as a strategy for sustainable solid waste management in Brazil. The study analyzes the foundations and challenges of this form of federative cooperation, with an emphasis on the implementation of controlled landfills. The aim is to discuss the feasibility of business models that integrate consortia, technological innovation, and social inclusion to overcome the structural limitations of small and medium-sized municipalities.
+</small><br><br/></div>
+
+
+
+**Economic Instruments for Solid Waste Management in Brazil: A Critical Analysis from the Perspective of Environmental Economics**, written by Paz, E. G. N., & Cechin, A. D. *In preparation for submission.* <br/> 
+<small>[<a href="javascript:void(0)" onclick="visib('INSTRUMENTOS')">Abstract</a>] </small>
+
+<div id="INSTRUMENTOS" style="display: none; text-align: justify; line-height: 1.2" ><small>
+This ongoing research provides a critical analysis of economic instruments applied to solid waste management in Brazil. Grounded in environmental economics, the study examines the effectiveness of mechanisms such as fees, incentives, and reverse logistics systems. The research investigates to what extent these instruments have contributed to promoting efficiency, socio-productive inclusion, and environmental sustainability, considering the institutional specificities of the Brazilian context.
+</small><br><br/></div>
+
+
+
+**Analysis of Educational Mismatch and Gender Wage Disparity in Brazil**, written by Ferreira, C. R. A., Paz, E. G. N., & Branco, T. C. *In preparation for submission.* <br/> 
+<small>[<a href="javascript:void(0)" onclick="visib('INCOMPAT')">Abstract</a>] </small>
+
+<div id="INCOMPAT" style="display: none; text-align: justify; line-height: 1.2" ><small>
+This ongoing research investigates the relationship between educational mismatch (the misalignment between workers' qualifications and occupational requirements) and the gender wage gap in Brazil. The study uses household survey microdata to analyze how educational mismatch affects earnings across the wage distribution. The research seeks to understand whether the inadequacy between education and occupation contributes to gender wage differences, controlling for individual and occupational characteristics.
+</small><br><br/></div>
+
+
+
 <br/> 
 
 
