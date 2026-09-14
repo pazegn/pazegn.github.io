@@ -247,6 +247,21 @@ This ongoing research provides a critical analysis of economic instruments appli
 </small><br><br/></div>
 
 
+**Institutional Quality and CO₂ Emissions in Latin America: Panel Evidence from 17 Countries, 2002–2020**, written by Dias, A. S. S., Paz, E. G. N., & Nogueira, J. M. *In preparation for submission.* <br/> 
+<small>[<a href="javascript:void(0)" onclick="visib('INSTITUTIONS')">Abstract</a>] </small>
+
+<div id="INSTITUTIONS" style="display: none; text-align: justify; line-height: 1.2" ><small>
+This ongoing research examines the relationship between institutional quality and CO₂ emissions across 17 Latin American countries between 2002 and 2020. The study uses panel data to analyze six dimensions of governance while accounting for economic characteristics including income, trade openness, and foreign direct investment. The research aims to assess whether different components of institutional quality exhibit distinct relationships with environmental performance in the Latin American context.
+</small><br><br/></div>
+
+
+**Mitigating the Environmental Impacts of Maritime Transport: Instruments, International Experiences, and Challenges for Brazil**, written by Castro, M. B., Paz, E. G. N., & Nogueira, J. M. *In preparation for submission.* <br/> 
+<small>[<a href="javascript:void(0)" onclick="visib('MARITIME')">Abstract</a>] </small>
+
+<div id="MARITIME" style="display: none; text-align: justify; line-height: 1.2" ><small>
+This ongoing research examines the instruments used to mitigate the environmental impacts of maritime transport and considers how the Brazilian experience relates to practices adopted internationally. The study combines an analytical review of the literature with regulatory, technical, and institutional sources, covering multilateral governance, economic instruments, technologies and operational measures, and port environmental management. The research aims to understand how different mitigation strategies operate across the maritime sector and how their combination can inform environmental management in the Brazilian context.
+</small><br><br/></div>
+
 
 **Analysis of Educational Mismatch and Gender Wage Disparity in Brazil**, written by Ferreira, C. R. A., Paz, E. G. N., & Branco, T. C. *In preparation for submission.* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('INCOMPAT')">Abstract</a>] </small>
@@ -254,7 +269,6 @@ This ongoing research provides a critical analysis of economic instruments appli
 <div id="INCOMPAT" style="display: none; text-align: justify; line-height: 1.2" ><small>
 This ongoing research investigates the relationship between educational mismatch (the misalignment between workers' qualifications and occupational requirements) and the gender wage gap in Brazil. The study uses household survey microdata to analyze how educational mismatch affects earnings across the wage distribution. The research seeks to understand whether the inadequacy between education and occupation contributes to gender wage differences, controlling for individual and occupational characteristics.
 </small><br><br/></div>
-
 
 
 <br/> 
