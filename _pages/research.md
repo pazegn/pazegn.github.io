@@ -271,6 +271,22 @@ This ongoing research investigates the relationship between educational mismatch
 </small><br><br/></div>
 
 
+**Infrastructure Financing in Brazil's Electricity Sector: Incentivized Debentures and BNDES Financing**, written by Souza, R. A., & Paz, E. G. N. *In preparation for submission.* <br/> 
+<small>[<a href="javascript:void(0)" onclick="visib('ENERGYFIN')">Abstract</a>] </small>
+
+<div id="ENERGYFIN" style="display: none; text-align: justify; line-height: 1.2" ><small>
+This ongoing research examines changes in the financing structure of Brazil's electricity sector, focusing on the role of incentivized debentures and BNDES financing. Using publicly available financial data, the study compares the evolution and characteristics of these two sources of long-term funding. The research seeks to understand how public development finance and capital-market instruments have contributed to the financing of electricity infrastructure in Brazil.
+</small><br><br/></div>
+
+
+**Territorial Inequalities in Access to HIV Pre-Exposure Prophylaxis in Brazil**, written by Paz, E. G. N., & Pereira, V. M. *In preparation for submission.* <br/> 
+<small>[<a href="javascript:void(0)" onclick="visib('PREP')">Abstract</a>] </small>
+
+<div id="PREP" style="display: none; text-align: justify; line-height: 1.2" ><small>
+This ongoing research examines territorial inequalities in the provision and use of HIV pre-exposure prophylaxis (PrEP) in Brazil. Using official health and socioeconomic data, the study investigates geographic differences in access to preventive services and their relationship with local characteristics. The research aims to contribute to the understanding of spatial inequalities in the implementation of HIV prevention policies across the Brazilian territory.
+</small><br><br/></div>
+
+
 <br/> 
 
 
