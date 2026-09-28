@@ -287,6 +287,14 @@ This ongoing research examines territorial inequalities in the provision and use
 </small><br><br/></div>
 
 
+**Human Capital and Regional Economic Performance in Brazil**, written by Paz, E. G. N., & Silva, A. B. *In preparation for submission.* <br/> 
+<small>[<a href="javascript:void(0)" onclick="visib('HUMANCAPITAL')">Abstract</a>] </small>
+
+<div id="HUMANCAPITAL" style="display: none; text-align: justify; line-height: 1.2" ><small>
+This ongoing research examines the relationship between human capital and economic performance across Brazilian regions. Using subnational data, the study investigates how educational characteristics are associated with differences in economic outcomes and whether these relationships vary across territorial contexts. The research contributes to the debate on education, regional inequality, and economic development in Brazil.
+</small><br><br/></div>
+
+
 <br/> 
 
 
