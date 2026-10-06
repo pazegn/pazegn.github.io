@@ -279,7 +279,7 @@ This ongoing research examines changes in the financing structure of Brazil's el
 </small><br><br/></div>
 
 
-**Territorial Inequalities in Access to HIV Pre-Exposure Prophylaxis in Brazil**, written by Paz, E. G. N., & Pereira, V. M. *In preparation for submission.* <br/> 
+**Territorial Inequalities in Access to HIV Pre-Exposure Prophylaxis in Brazil**, written by Paz, E. G. N. *In preparation for submission.* <br/> 
 <small>[<a href="javascript:void(0)" onclick="visib('PREP')">Abstract</a>] </small>
 
 <div id="PREP" style="display: none; text-align: justify; line-height: 1.2" ><small>
