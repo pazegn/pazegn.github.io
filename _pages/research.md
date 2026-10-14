@@ -296,6 +296,14 @@ This ongoing research examines the relationship between human capital and econom
 </small><br><br/></div>
 
 
+**Native Vegetation Dynamics in the Brazilian Cerrado: A Territorial Perspective**, written by Paz, E. G. N., & Nogueira, J. M. *In preparation for submission.* <br/> 
+<small>[<a href="javascript:void(0)" onclick="visib('CERRADO')">Abstract</a>] </small>
+
+<div id="CERRADO" style="display: none; text-align: justify; line-height: 1.2" ><small>
+This ongoing research examines the spatial and temporal dynamics of native vegetation clearing in the Brazilian Cerrado. Using municipal-level environmental data, the study investigates how patterns of vegetation loss vary across the territory and over time. The research seeks to contribute to the understanding of territorial heterogeneity in land-cover change within one of Brazil's major biomes.
+</small><br><br/></div>
+
+
 <br/> 
 
 
