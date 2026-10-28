@@ -20,7 +20,7 @@ title                    : "Edson G. N. Paz"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Edson G. N. Paz"
-description              :
+description              :"Academic website of Edson G. N. Paz, economist and PhD candidate at UnB. Research in regional, urban, labor, demographic and environmental economics."
 url                      : "https://pazegn.github.io"
 baseurl                  :  # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -162,7 +162,7 @@ author:
   # ----------------------------------------
   # ORCID
   # ----------------------------------------
-  - label: "ORCID"
+  - label: "Orcid"
     icon: "ai ai-orcid"
     url: "https://orcid.org/0000-0002-6051-4498"
 
