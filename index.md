@@ -8,9 +8,9 @@ permalink: /
 
 **Welcome to my homepage!**
 
-I am an economist and researcher specializing in applied economic analysis, with a focus on spatial and quantitative methods.
+I am an economist and researcher specializing in applied economics, with a focus on spatial analysis and quantitative methods.
 
-I am a PhD candidate in Economics at the University of Brasília [(UnB)][UnB], with a Master's degree in Economics from [UFPE][UFPE] and a Bachelor's degree in Economics from [UFPB][UFPB]. My academic and professional activities include serving as an External Lecturer in the Professional Master's Program in Economics and Environmental Management at UnB, Research Coordinator at the Integrated Center for Territorial Planning [(CIORD/UnB)][CIORD/UnB], Advisor at the Office of the Attorney General of the National Treasury [(PGFN)][PGFN], and Academic Supervisor in the MBA Program in Economics, Investments, and Banking at [USP/ESALQ][USP/ESALQ].
+I am a PhD candidate in Economics at the University of Brasília [(UnB)][UnB], with a Master's degree in Economics from [UFPE][UFPE] and a Bachelor's degree in Economics from [UFPB][UFPB]. I also serve as an external lecturer in UnB's Professional Master's Program in Economics and Environmental Management and as Research Coordinator at the Centro Integrado de Ordenamento Territorial [(CIORD/UnB)][CIORD/UnB]. I work as an advisor at the Procuradoria-Geral da Fazenda Nacional [(PGFN)][PGFN], part of Brazil's Ministry of Finance, and supervise academic research projects in the MBA in Economics, Investments, and Banking at [USP/ESALQ][USP/ESALQ].
 
 
 **Research Interests:**
