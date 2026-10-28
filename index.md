@@ -5,11 +5,12 @@ classes: wide
 permalink: /
 ---
 
+
 **Welcome to my homepage!**
 
-I am an Forensic Economist and Researcher. 
+I am an economist and researcher specializing in applied economic analysis, with a focus on spatial and quantitative methods.
 
-PhD candidate in Economics at the University of Brasília [(UnB)][UnB], with a Master's in Economics from [UFPE][UFPE] and a Bachelor's in Economics from [UFPB][UFPB]. Experience in technical projects, applied economic analysis, and regional development. Supervising Professor in the Data Science and Analytics and Finance and Controlling courses of the lato sensu postgraduate program at [USP/ESALQ][USP/ESALQ] and Consultant at the Procuradoria-Geral Adjunta de Governança da Procuradoria-Geral da Fazenda Nacional [(PGFN)][PGFN]. 
+I am a PhD candidate in Economics at the University of Brasília [(UnB)][UnB], with a Master's degree in Economics from [UFPE][UFPE] and a Bachelor's degree in Economics from [UFPB][UFPB]. My academic and professional activities include serving as an External Lecturer in the Professional Master's Program in Economics and Environmental Management at UnB, Research Coordinator at the Integrated Center for Territorial Planning [(CIORD/UnB)[CIORD/UnB]], Advisor at the Office of the Attorney General of the National Treasury [(PGFN)][PGFN], and Academic Supervisor in the MBA Program in Economics, Investments, and Banking at [USP/ESALQ][USP/ESALQ].
 
 
 **Research Interests:**
@@ -23,5 +24,7 @@ PhD candidate in Economics at the University of Brasília [(UnB)][UnB], with a M
 [UnB]: https://ppgeco.unb.br/doutorado/
 [UFPE]: https://www.ufpe.br/ppgecon
 [UFPB]: https://sigaa.ufpb.br/sigaa/public/curso/portal.jsf?lc=pt_BR&id=1626696
-[USP/ESALQ]: https://blog.mbauspesalq.com/?_gl=1*hyv1a*_gcl_aw*R0NMLjE3Njg5NjI1NDUuQ2p3S0NBaUE3THpMQmhBZ0Vpd0FqTVd6Q0YtakpQem0zUGg2QjlpNHFYUE11YUhRTk81Qy1Wc1lmcllCMUFDdTl0OW1xaHF4aWpWOFJ4b0NBeGtRQXZEX0J3RQ..*_gcl_au*MzY3OTk2OC4xNzY4OTYyNDE3*FPAU*MzY3OTk2OC4xNzY4OTYyNDE3*_ga*ODM5MDQ5NDA3LjE3Njg5NjI0MTc.*_ga_5YBD713X0E*czE3Njg5NjI0MTYkbzEkZzEkdDE3Njg5NjI1NTIkajgkbDAkaDk2MDEyNzAzNQ..*_fplc*aUQ4eVBrR1lPZWxnb09semNxVU1UM2FaV3U5RWRTWU9Cdnc4ZkthcjJYdHVXYnFXYkpES2c1SnJFT2tKcGdLOFB6SWlUQWVsN3JyNkxjMW5nbnp2RFdzQWkwdkJIWWR0WUgwcjhqRWM0emExMVU5RG1Cd0slMkZaQ2FxYlh2dHclM0QlM0Q.
+[USP/ESALQ]: https://blog.mbauspesalq.com/
 [PGFN]: https://www.gov.br/pgfn/pt-br
+[CIORD/UnB]: https://sigaa.unb.br/sigaa/public/departamento/pesquisa.jsf?id=316
+
