@@ -112,8 +112,10 @@ author:
 
   bio: |
     Forensic Economist <br>
+    External Lecturer (UnB)<br>
     Academic Advisor in Economics (USP/ESALQ)
 
+     
   # location: "Brasília, DF – Brasil"
 
   # email: "paz.egn@gmail.com"
@@ -157,6 +159,12 @@ author:
     icon: "fab fa-fw fa-linkedin"
     url: "https://www.linkedin.com/in/edson-nascimento5966/"
 
+  # ----------------------------------------
+  # ORCID
+  # ----------------------------------------
+  - label: "ORCID"
+    icon: "ai ai-orcid"
+    url: "https://orcid.org/0000-0002-6051-4498"
 
 # Site Footer
 footer:
