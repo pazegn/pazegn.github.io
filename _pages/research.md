@@ -16,11 +16,20 @@ permalink: /research/
 
 <div id="COP302025" style="display: none; text-align: justify; line-height: 1.2" ><small>
 This article addresses the lack of comparable metrics to guide analysis of the bioeconomy in Brazil, a topic that has been treated as a driver of development and climate change but lacks comparable metrics to guide policies and investments. This article aims to measure and characterize the 100% BIO core using microdata from the RAIS (2011–2021) based on two indicators: the core's share of formal employment and its share of the wage bill. This is a quantitative-descriptive study, with sectoral (CNAE) and territorial breakdowns and an assessment of the temporal evolution of these indicators. The results show stability in the share of formal employment at a constant level and a similar share of the wage bill, with a slight increase at the end of the series. Behind this average stability, spatial reconfiguration is observed, with relative gains in the Central-West and South regions, associated with agro-industrial densification, and a loss of traction of traditional primary complexes in states in the Southeast and Northeast. At the sectoral level, the transformation links linked to biomass stand out, such as food and beverage processing, slaughter and dairy, and the pulp and paper chain. In new agricultural fronts, formal employment remained resilient in the 2020–2021 biennium, but gaps persist between employment and income participation where local processing is incipient. In light of these findings, the two indicators used allow prioritizing territories and monitoring initiatives by revealing where the 100% BIO core generates not only formal jobs but also a greater share of income. The study's contribution is to offer standardized and replicable measurement with administrative data, enabling sectoral and territorial comparisons and continuous monitoring of the Brazilian bioeconomy.
- 
-</small><br><br/></div>
+ </small><br><br/></div>
 
 [COP302025]: https://doi.org/10.18829/2317-921X.2025.e60197
 
+
+**Regional Distribution of Violence Against Women across Brazilian Federative Units: Evidence from the Brazilian Public Security Yearbook between 2016 and 2021**, written by Paz, E. G. N., Martins, H. B. O., Fernandes, R. A. S., & Loureiro, P. R. A. *Revista Eletrônica Cosmopolita em Ação, v. 11, n. 1, 2026.* <br/> 
+<small>[<a href="javascript:void(0)" onclick="visib('VIOLENCIA')">Abstract</a> | [Paper][VIOLENCIA2026] ] </small>
+<small>[<a href="javascript:void(0)" onclick="visib('VIOLENCIA')">Abstract</a>] </small>
+
+<div id="VIOLENCIA" style="display: none; text-align: justify; line-height: 1.2" ><small>
+This article examines the regional distribution of recorded violence against women across Brazilian states, focusing on femicide, rape, and attempted rape between 2016 and 2021. Using data from the Brazilian Public Security Yearbook and economic, budgetary, and formal labor market indicators, a state-level panel dataset is constructed to describe trends in recorded rates and estimate the association between sexual violence recorded in the previous year and the current femicide rate. The empirical strategy employs panel data models with state and year fixed effects, with standard errors clustered at the state level. The estimations use the effective sample available after constructing lagged variables, applying completeness filters, and removing singleton observations, resulting in 97 observations. The descriptive results reveal territorial heterogeneity in recorded rates, with higher average femicide rates in several states in Brazil's North and Central-West regions. In the econometric models, the lagged attempted rape rate exhibits a positive, stable, and statistically significant association with the current femicide rate across all specifications. In contrast, the lagged rape rate does not remain statistically significant in the fully specified model. The findings indicate that previous records of attempted rape are associated with state-level contexts characterized by higher recorded femicide rates, without supporting causal inference. The study contributes by providing recent evidence on the territorial distribution of violence against women in Brazil and reinforcing the need for caution when interpreting administrative records, given underreporting, differences in police classification practices, and unequal institutional recording capacity across states.
+</small><br><br/></div>
+
+[VIOLENCIA2026]: [https://doi.org/10.18829/2317-921X.2025.e60197](https://revistas.icesp.br/index.php/Cosmopolita/article/view/7242/4337)
 
 
 **Entrepreneurship or Informality in Disguise? The Illusion of Autonomy in Digital Platforms and Its Effects on Labor Rights**, written by PAZ, E. G. N.; CARVALHO, R. G. *Anais eletrônicos do Encontro intermediário da ABET-UFPB - O futuro do trabalho em debate : por um olhar periférico. João Pessoa: CCTA, 2024, 1, p.13 - 28, 2024.* <br/> 
@@ -219,16 +228,6 @@ This article aims to analyze the context of the precarization of labor relations
 <div id="DESASTRES" style="display: none; text-align: justify; line-height: 1.2" ><small>
 This ongoing research investigates the allocation pattern of federal funds for disaster management in Brazilian municipalities. The study uses budgetary data and official disaster records to analyze the temporal and territorial distribution of spending on prevention, response, and recovery. The aim is to understand how these resources are distributed across the different phases of disaster management and how this allocation relates to the occurrence of events and reported losses.
 </small><br><br/></div>
-
-
-
-**Regional Distribution of Violence Against Women across Brazilian Federative Units: Evidence from the Brazilian Public Security Yearbook between 2016 and 2021**, written by Paz, E. G. N., Martins, H. B. O., Fernandes, R. A. S., & Loureiro, P. R. A. *In preparation for submission.* <br/> 
-<small>[<a href="javascript:void(0)" onclick="visib('VIOLENCIA')">Abstract</a>] </small>
-
-<div id="VIOLENCIA" style="display: none; text-align: justify; line-height: 1.2" ><small>
-This ongoing research analyzes the regional distribution of violence against women records in Brazil, focusing on femicide, rape, and attempted rape. The study uses data from the Brazilian Public Security Yearbook and socioeconomic indicators to examine the territorial heterogeneity of these records across Federative Units. The research aims to describe the evolution of rates and explore associations between different forms of recorded violence and the state-level context.
-</small><br><br/></div>
-
 
 
 **Intermunicipal Public Consortia and Controlled Landfills: A Sustainable Business Opportunity in the Brazilian Solid Waste Sector**, written by Paz, E. G. N., & Batista, L. G. A. *In preparation for submission.* <br/> 
