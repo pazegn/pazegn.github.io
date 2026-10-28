@@ -6,7 +6,9 @@ permalink: /
 ---
 
 
+
 **Welcome to my homepage!**
+
 
 I am an economist and researcher specializing in applied economics, with a focus on spatial analysis and quantitative methods.
 
